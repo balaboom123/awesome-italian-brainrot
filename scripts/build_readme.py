@@ -20,6 +20,7 @@ KINDS = {"original", "fusion"}
 SOURCES = {
     "commons":   ("Wikimedia Commons", "licensed per file on its Commons page (most are tagged public domain as AI output; check each)", True),
     "wikioasis": ("Italian Brainrot Wiki (WikiOasis)", "fan uploads of TikTok/AI images; the wiki text is CC BY-SA 4.0, the files are not", True),
+    "miraheze": ("Italian Brainrot Wiki (Miraheze archive)", "archived fan uploads; media rights recorded per file", True),
     "kym":       ("Know Your Meme", "fan uploads, rights with the original poster", True),
     "namuwiki":  ("Namu Wiki", "fan uploads, rights with the original poster (wiki text is CC BY-NC-SA 2.0 KR)", True),
     "fandom":    ("Fandom", "fan uploads, rights with the original poster; no live page to link", False),
@@ -49,6 +50,18 @@ def valid_url(value):
         return parts.scheme in {"http", "https"} and bool(parts.hostname)
     except ValueError:
         return False
+
+
+def check_credit(credit, label):
+    errs = []
+    if not isinstance(credit, dict):
+        return [f"{label}: credit must be an object"]
+    for key in ("attribution", "license", "page_title"):
+        if key in credit and (not isinstance(credit[key], str) or not credit[key].strip() or any(ch in credit[key] for ch in "\r\n")):
+            errs.append(f"{label}.{key}: must be a non-empty single-line string")
+    if "license_url" in credit and (not valid_url(credit["license_url"]) or not credit.get("license")):
+        errs.append(f"{label}.license_url: requires an HTTP(S) URL and license name")
+    return errs
 
 
 def check_schema(chars):
@@ -110,6 +123,7 @@ def check_schema(chars):
             if not isinstance(v, dict):
                 errs.append(f"{s}: sources.{k} must be an object")
                 continue
+            errs += check_credit(v, f"{s}: sources.{k}")
             if (SOURCES[k][2] or "url" in v) and not valid_url(v.get("url")):
                 errs.append(f"{s}: sources.{k}.url must be an HTTP(S) source page URL")
             if "hires" in v and (not isinstance(v["hires"], str) or not re.fullmatch(r"[1-9][0-9]*x[1-9][0-9]*", v["hires"])):
@@ -120,6 +134,10 @@ def check_schema(chars):
             errs.append(f"{s}: thumb must name a listed source")
         if "audio_source" in c and not valid_url(c["audio_source"]):
             errs.append(f"{s}: audio_source must be an HTTP(S) URL")
+        if "audio_credit" in c:
+            errs += check_credit(c["audio_credit"], f"{s}: audio_credit")
+            if not c.get("audio_source"):
+                errs.append(f"{s}: audio_credit requires audio_source")
         if "origin" in c:
             o = c["origin"]
             if not isinstance(o, dict) or any(not isinstance(o.get(k), str) or not o[k].strip() for k in ("creator", "platform", "date")) or not valid_url(o.get("url")):
@@ -259,6 +277,17 @@ The index, READMEs and scripts use [CC0](LICENSE). Images and audio retain their
 """
 
 
+def credit_text(metadata):
+    details = []
+    for key in ("page_title", "attribution"):
+        if metadata.get(key):
+            details.append(html.escape(metadata[key]))
+    if metadata.get("license"):
+        name = html.escape(metadata["license"])
+        details.append(f"[{name}]({metadata['license_url']})" if metadata.get("license_url") else name)
+    return " · " + " · ".join(details) if details else ""
+
+
 def char_readme(c):
     d, thumb, hires, audio = files_of(c)
     lines = [
@@ -278,7 +307,7 @@ def char_readme(c):
     lines += ["## Downloads", ""]
     if audio:
         credit = f" · [source]({c['audio_source']})" if c.get("audio_source") else ""
-        lines.append(f"- [Audio (MP3)]({audio}){credit}")
+        lines.append(f"- [Audio (MP3)]({audio}){credit}{credit_text(c.get('audio_credit', {}))}")
     for source in c["sources"]:
         filename = f"{c['slug']}_{source}.webp"
         lines.append(f"- [Thumbnail · {SOURCES[source][0]}]({filename})")
@@ -289,7 +318,8 @@ def char_readme(c):
     lines += ["", "## Sources", ""]
     for key, source in c["sources"].items():
         label = SOURCES[key][0]
-        lines.append(f"- [{label}]({source['url']})" if source.get("url") else f"- {label} (wiki closed)")
+        entry = f"- [{label}]({source['url']})" if source.get("url") else f"- {label} (wiki closed)"
+        lines.append(entry + credit_text(source))
     lines.append("\n[← All characters](../../README.md)")
     return "\n".join(lines) + "\n"
 

@@ -6,6 +6,7 @@
 
 ## Downloads
 
+- [Audio (MP3)](glorbo-fruttodrillo.mp3) · [source](https://tuna.voicemod.net/sound/06295fc3-2d56-4e4f-b596-4ff376a10874) · Voicemod uploader: PitchParametricPhaser59198 · Unknown media license
 - [Thumbnail · Namu Wiki](glorbo-fruttodrillo_namuwiki.webp)
 - [Full image · Namu Wiki · 800x788](glorbo-fruttodrillo_namuwiki_full.png)
 

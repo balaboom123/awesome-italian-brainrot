@@ -2,21 +2,26 @@
 
 # Cappuccino Assassino
 
-<img src="cappuccino-assassino_fandom.webp" width="300" alt="Cappuccino Assassino">
+<img src="cappuccino-assassino_commons.webp" width="300" alt="Cappuccino Assassino">
 
 **Also spelled:** capuccino assasino
+
+**Origin:** @alexey_pigeon · tiktok · 2025-03-05 ([source](https://knowyourmeme.com/memes/cappuccino-assassino-italian-brainrot))
 
 ## Downloads
 
 - [Audio (MP3)](cappuccino-assassino.mp3)
 - [Thumbnail · Namu Wiki](cappuccino-assassino_namuwiki.webp)
 - [Thumbnail · Fandom](cappuccino-assassino_fandom.webp)
+- [Thumbnail · Wikimedia Commons](cappuccino-assassino_commons.webp)
 - [Full image · Namu Wiki · 1000x996](cappuccino-assassino_namuwiki_full.png)
 - [Full image · Fandom · 2744x1544](cappuccino-assassino_fandom_full.png)
+- [Full image · Wikimedia Commons · 576x576](https://upload.wikimedia.org/wikipedia/commons/9/99/Cappucino_assasino.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ## Sources
 
 - [Namu Wiki](https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0)
 - Fandom (wiki closed)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cappucino_assasino.webp) · Published by user alexey_pigeon · Public domain
 
 [← All characters](../../README.md)

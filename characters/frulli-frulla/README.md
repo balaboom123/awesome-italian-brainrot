@@ -2,15 +2,19 @@
 
 # Frulli Frulla
 
-<img src="frulli-frulla_namuwiki.webp" width="300" alt="Frulli Frulla">
+<img src="frulli-frulla_commons.webp" width="300" alt="Frulli Frulla">
 
 ## Downloads
 
+- [Audio (MP3)](frulli-frulla.mp3) · [source](https://www.myinstants.com/en/instant/italiananimals-bird-in-the-desert-80209/) · MyInstants uploader: epeu · Unknown media license
 - [Thumbnail · Namu Wiki](frulli-frulla_namuwiki.webp)
+- [Thumbnail · Wikimedia Commons](frulli-frulla_commons.webp)
 - [Full image · Namu Wiki · 800x792](frulli-frulla_namuwiki_full.png)
+- [Full image · Wikimedia Commons · 536x536](https://upload.wikimedia.org/wikipedia/commons/1/16/Frulli_Frulla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ## Sources
 
 - [Namu Wiki](https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Frulli_Frulla.jpg) · Unknown author (Commons) · Public domain
 
 [← All characters](../../README.md)

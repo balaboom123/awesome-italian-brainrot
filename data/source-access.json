@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Wikimedia Commons",
+    "source_page": "https://commons.wikimedia.org/wiki/Category:Italian_brainrot",
+    "retrieved_at": "2026-10-04T08:34:04Z",
+    "http_status": 200,
+    "response_sha256": "e22dc6a5486ed58fba38e4b9aeb3fab99bfd16303eb2e3ab5aaf8617c197c4ed"
+  },
+  {
+    "name": "MyInstants",
+    "source_page": "https://www.myinstants.com/en/search/?name=italian+brainrot",
+    "retrieved_at": "2026-10-04T08:34:04Z",
+    "http_status": 200,
+    "response_sha256": "b53b13310d9dca65be636a667ebe39762928f4c02ec706271fcb2ebd1ac11076"
+  },
+  {
+    "name": "Voicemod Tuna",
+    "source_page": "https://tuna.voicemod.net/",
+    "retrieved_at": "2026-10-04T08:34:07Z",
+    "http_status": 200,
+    "response_sha256": "0f68abeed87ba39c4ee3b5f75b50b1ad4b01c32d04d4de5aa7ac251ba0b52ab7"
+  },
+  {
+    "name": "Miraheze archive",
+    "source_page": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+    "retrieved_at": "2026-10-04T08:34:04Z",
+    "http_status": 200,
+    "response_sha256": "0743a0d2f3f48f59122dbc389cb9c177d322197b0a9fb33fe0bc46d0683c3020"
+  },
+  {
+    "name": "WikiOasis archive",
+    "source_page": "https://archive.org/details/wiki-italianbrainrot.wikioasis.org_w-20260819",
+    "retrieved_at": "2026-10-04T08:34:04Z",
+    "http_status": 200,
+    "response_sha256": "caf3f6a03fcab126c2e9dc93ff0a7c74910779407da820f0474647079693673b"
+  },
+  {
+    "name": "Know Your Meme",
+    "source_page": "https://knowyourmeme.com/memes/ballerina-cappuccina-italian-brainrot",
+    "retrieved_at": "2026-10-04T08:52:24Z",
+    "http_status": 200,
+    "response_sha256": "a51317ef37232b383abb8e44797dd009312c90614b11935ba148f0b5c8fe80ff"
+  },
+  {
+    "name": "Know Your Meme",
+    "source_page": "https://knowyourmeme.com/memes/boneca-ambalabu",
+    "retrieved_at": "2026-10-04T08:52:24Z",
+    "http_status": 200,
+    "response_sha256": "483ddd508228f5637215091a925fd166c7d094b4448401d436e38beb8fdf40ec"
+  },
+  {
+    "name": "Know Your Meme",
+    "source_page": "https://knowyourmeme.com/memes/cappuccino-assassino-italian-brainrot",
+    "retrieved_at": "2026-10-04T08:52:24Z",
+    "http_status": 200,
+    "response_sha256": "e178f26ef27ca97a15b8f07f8fb128ec59075c1e8f1eefdaff0c57e7c655628d"
+  },
+  {
+    "name": "Know Your Meme",
+    "source_page": "https://knowyourmeme.com/memes/brr-brr-patapim",
+    "retrieved_at": "2026-10-04T08:52:25Z",
+    "http_status": 200,
+    "response_sha256": "287261fa18dd7cf05ff8a7b33a33a8eb6b11f9ca753e22c8097f7f81d1d35aaa"
+  },
+  {
+    "name": "Know Your Meme",
+    "source_page": "https://knowyourmeme.com/memes/chimpanzini-bananini-italian-brainrot",
+    "retrieved_at": "2026-10-04T08:52:25Z",
+    "http_status": 200,
+    "response_sha256": "e1c6ede4a55b30c35d6319f9fc4339c63b399e560cd0fdaaadf9ae5c612470ad"
+  },
+  {
+    "name": "Know Your Meme",
+    "source_page": "https://knowyourmeme.com/memes/frigo-camelo",
+    "retrieved_at": "2026-10-04T08:52:25Z",
+    "http_status": 200,
+    "response_sha256": "3bae68e1958bc694ed6c374bbbc4f9557bfc2d39452e761be4c7208e03c7871b"
+  },
+  {
+    "name": "Know Your Meme",
+    "source_page": "https://knowyourmeme.com/memes/bombardiro-crocodilo-italian-brainrot",
+    "retrieved_at": "2026-10-04T08:52:27Z",
+    "http_status": 200,
+    "response_sha256": "cbcebb1fbda4502047c9dc62baa33da5d81330bc9abeb91b2f1941dfa03ff5d3"
+  },
+  {
+    "name": "Know Your Meme",
+    "source_page": "https://knowyourmeme.com/memes/hotspot-bro",
+    "retrieved_at": "2026-10-04T08:52:27Z",
+    "http_status": 200,
+    "response_sha256": "ae98dd61af92f012fe57d2ebaec1e7e9ba7a08daaa4dde93ff7b8cb5db59211f"
+  },
+  {
+    "name": "Know Your Meme",
+    "source_page": "https://knowyourmeme.com/memes/tung-tung-tung-sahur",
+    "retrieved_at": "2026-10-04T08:52:27Z",
+    "http_status": 200,
+    "response_sha256": "5e486078ec858e057736561f8091602015e90e0a2e879995e503e445366ddd4e"
+  },
+  {
+    "name": "Wikipedia",
+    "source_page": "https://en.wikipedia.org/wiki/Italian_brainrot",
+    "retrieved_at": "2026-10-04T08:52:27Z",
+    "http_status": 200,
+    "response_sha256": "fc4b3a0420b706569d6b3a67c4deff9ebc36544b185dd57ff77902d8ecd34cf5"
+  },
+  {
+    "name": "Wikidata",
+    "source_page": "https://www.wikidata.org/wiki/Special:EntityData/Q133869040.json",
+    "retrieved_at": "2026-10-04T08:52:28Z",
+    "http_status": 200,
+    "response_sha256": "92f86ca42564fe2b17dd0d72c73c74a53959c26dde8144abb3ff7c7bccbe0217"
+  },
+  {
+    "name": "Wikidata",
+    "source_page": "https://www.wikidata.org/wiki/Special:EntityData/Q134294961.json",
+    "retrieved_at": "2026-10-04T08:52:28Z",
+    "http_status": 200,
+    "response_sha256": "7de4e7c5c6b5fc91ce0ba6ec59ac48b868797eae959f8ab42e597a0ed883856f"
+  },
+  {
+    "name": "WikiOasis",
+    "source_page": "https://italianbrainrot.wikioasis.org",
+    "retrieved_at": "2026-10-04T09:10:13Z",
+    "http_status": 403
+  },
+  {
+    "name": "Namu Wiki",
+    "source_page": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
+    "retrieved_at": "2026-10-04T09:10:13Z",
+    "http_status": 403
+  }
+]

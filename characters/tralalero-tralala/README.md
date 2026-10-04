@@ -2,7 +2,7 @@
 
 # Tralalero Tralala
 
-<img src="tralalero-tralala_fandom.webp" width="300" alt="Tralalero Tralala">
+<img src="tralalero-tralala_commons.webp" width="300" alt="Tralalero Tralala">
 
 **Origin:** @eZburger401 · tiktok · 2025-01 ([source](https://knowyourmeme.com/memes/italian-brainrot-ai-italian-animals))
 
@@ -11,12 +11,15 @@
 - [Audio (MP3)](tralalero-tralala.mp3)
 - [Thumbnail · Fandom](tralalero-tralala_fandom.webp)
 - [Thumbnail · Namu Wiki](tralalero-tralala_namuwiki.webp)
+- [Thumbnail · Wikimedia Commons](tralalero-tralala_commons.webp)
 - [Full image · Fandom · 900x900](tralalero-tralala_fandom_full.png)
 - [Full image · Namu Wiki · 1620x1800](tralalero-tralala_namuwiki_full.png)
+- [Full image · Wikimedia Commons · 576x576](https://upload.wikimedia.org/wikipedia/commons/f/f6/Tralalero_Tralala.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ## Sources
 
 - Fandom (wiki closed)
 - [Namu Wiki](https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tralalero_Tralala.webp) · @amoamimandy.1a · Public domain
 
 [← All characters](../../README.md)

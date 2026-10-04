@@ -6,6 +6,7 @@
 
 ## Downloads
 
+- [Audio (MP3)](bobrito-bandito.mp3) · [source](https://www.myinstants.com/en/instant/bobrito-bandito-italian-brainrot-40180/) · MyInstants uploader: DJYUSIF · Unknown media license
 - [Thumbnail · Namu Wiki](bobrito-bandito_namuwiki.webp)
 - [Full image · Namu Wiki · 1000x1000](bobrito-bandito_namuwiki_full.png)
 

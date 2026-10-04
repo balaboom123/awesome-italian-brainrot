@@ -2,23 +2,26 @@
 
 # Tung Tung Tung Sahur
 
-<img src="tung-tung-tung-sahur_fandom.webp" width="300" alt="Tung Tung Tung Sahur">
+<img src="tung-tung-tung-sahur_commons.webp" width="300" alt="Tung Tung Tung Sahur">
 
-**Also spelled:** tung tung tung tung tung tung tung tung tung sahur
+**Also spelled:** tung tung tung tung tung tung tung tung tung sahur, triple t
 
-**Origin:** @noxaasht · tiktok · 2025-02 ([source](https://en.wikipedia.org/wiki/Italian_brainrot))
+**Origin:** @noxaasht · tiktok · 2025-02-28 ([source](https://knowyourmeme.com/memes/tung-tung-tung-sahur))
 
 ## Downloads
 
-- [Audio (MP3)](tung-tung-tung-sahur.mp3)
+- [Audio (MP3)](tung-tung-tung-sahur.mp3) · [source](https://www.myinstants.com/en/instant/tung-tung-tung-tung-sahur-82632/) · MyInstants uploader: k4622 · Unknown media license
 - [Thumbnail · Fandom](tung-tung-tung-sahur_fandom.webp)
 - [Thumbnail · Namu Wiki](tung-tung-tung-sahur_namuwiki.webp)
+- [Thumbnail · Wikimedia Commons](tung-tung-tung-sahur_commons.webp)
 - [Full image · Fandom · 1920x1440](tung-tung-tung-sahur_fandom_full.png)
 - [Full image · Namu Wiki · 1000x1064](tung-tung-tung-sahur_namuwiki_full.png)
+- [Full image · Wikimedia Commons · 839x1080](https://upload.wikimedia.org/wikipedia/commons/1/19/Tung_tung_tung_sahur.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ## Sources
 
 - Fandom (wiki closed)
 - [Namu Wiki](https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tung_tung_tung_sahur.webp) · @noxaasht · Public domain
 
 [← All characters](../../README.md)

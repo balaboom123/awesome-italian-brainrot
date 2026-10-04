@@ -2,18 +2,24 @@
 
 # Chimpanzini Bananini
 
-<img src="chimpanzini-bananini_fandom.webp" width="300" alt="Chimpanzini Bananini">
+<img src="chimpanzini-bananini_commons.webp" width="300" alt="Chimpanzini Bananini">
+
+**Origin:** @alexey_pigeon · tiktok · 2025-03-13 ([source](https://knowyourmeme.com/memes/chimpanzini-bananini-italian-brainrot))
 
 ## Downloads
 
+- [Audio (MP3)](chimpanzini-bananini.mp3) · [source](https://www.myinstants.com/en/instant/chimpanzini-bananini-full-30237/) · MyInstants uploader: evan09 · Unknown media license
 - [Thumbnail · Fandom](chimpanzini-bananini_fandom.webp)
 - [Thumbnail · Namu Wiki](chimpanzini-bananini_namuwiki.webp)
+- [Thumbnail · Wikimedia Commons](chimpanzini-bananini_commons.webp)
 - [Full image · Fandom · 896x900](chimpanzini-bananini_fandom_full.png)
 - [Full image · Namu Wiki · 1000x1004](chimpanzini-bananini_namuwiki_full.png)
+- [Full image · Wikimedia Commons · 576x576](https://upload.wikimedia.org/wikipedia/commons/9/96/ChimpanziniBananini.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ## Sources
 
 - Fandom (wiki closed)
 - [Namu Wiki](https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ChimpanziniBananini.webp) · Unknown (TikTok anonymous users) · Public domain
 
 [← All characters](../../README.md)

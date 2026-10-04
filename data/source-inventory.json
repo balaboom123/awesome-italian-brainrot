@@ -1,0 +1,724 @@
+{
+  "baseline_commit": "9f21ad3c26a718b26964ca3970eddab7436881db",
+  "baseline_counts": {
+    "characters": 48,
+    "audio": 11,
+    "origins": 3,
+    "commons": 0
+  },
+  "characters": [
+    {
+      "slug": "ballerina-cappuccina",
+      "name": "ballerina cappuccina",
+      "aliases": [
+        "ballerina cappucina"
+      ],
+      "normalized_lookup": [
+        "ballerina cappuccina",
+        "ballerina cappucina"
+      ],
+      "source_keys": [
+        "fandom",
+        "namuwiki"
+      ],
+      "missing_audio": false,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "bananita-dolfinita",
+      "name": "bananita dolfinita",
+      "aliases": [],
+      "normalized_lookup": [
+        "bananita dolfinita"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "bluberini-octopusini",
+      "name": "bluberini octopusini",
+      "aliases": [
+        "blueberrinni octopussini"
+      ],
+      "normalized_lookup": [
+        "bluberini octopusini",
+        "blueberrinni octopussini"
+      ],
+      "source_keys": [
+        "fandom",
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "bombombini-gusini",
+      "name": "bombombini gusini",
+      "aliases": [
+        "bobombini goosini"
+      ],
+      "normalized_lookup": [
+        "bobombini goosini",
+        "bombombini gusini"
+      ],
+      "source_keys": [
+        "fandom",
+        "namuwiki"
+      ],
+      "missing_audio": false,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "bobrini-cocococini",
+      "name": "bobrini cocococini",
+      "aliases": [],
+      "normalized_lookup": [
+        "bobrini cocococini"
+      ],
+      "source_keys": [
+        "fandom"
+      ],
+      "missing_audio": false,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "bobrito-bandito",
+      "name": "bobrito bandito",
+      "aliases": [],
+      "normalized_lookup": [
+        "bobrito bandito"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "bombardiro-crocodilo",
+      "name": "bombardiro crocodilo",
+      "aliases": [
+        "bombardino crocodilo"
+      ],
+      "normalized_lookup": [
+        "bombardino crocodilo",
+        "bombardiro crocodilo"
+      ],
+      "source_keys": [
+        "fandom",
+        "namuwiki"
+      ],
+      "missing_audio": false,
+      "missing_origin": false,
+      "missing_commons": true
+    },
+    {
+      "slug": "boneca-ambalabu",
+      "name": "boneca ambalabu",
+      "aliases": [],
+      "normalized_lookup": [
+        "boneca ambalabu"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "brr-brr-patapim",
+      "name": "brr brr patapim",
+      "aliases": [],
+      "normalized_lookup": [
+        "brr brr patapim"
+      ],
+      "source_keys": [
+        "fandom",
+        "namuwiki"
+      ],
+      "missing_audio": false,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "brri-brri-bicus-dicus-bombicus",
+      "name": "brri brri bicus dicus bombicus",
+      "aliases": [],
+      "normalized_lookup": [
+        "brri brri bicus dicus bombicus"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "bulbito-bandito-traktorito",
+      "name": "bulbito bandito traktorito",
+      "aliases": [],
+      "normalized_lookup": [
+        "bulbito bandito traktorito"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "burbaloni-luliloli",
+      "name": "burbaloni luliloli",
+      "aliases": [
+        "burbaloni lulilolli"
+      ],
+      "normalized_lookup": [
+        "burbaloni luliloli",
+        "burbaloni lulilolli"
+      ],
+      "source_keys": [
+        "fandom",
+        "namuwiki"
+      ],
+      "missing_audio": false,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "cappuccino-assassino",
+      "name": "cappuccino assassino",
+      "aliases": [
+        "capuccino assasino"
+      ],
+      "normalized_lookup": [
+        "cappuccino assassino",
+        "capuccino assasino"
+      ],
+      "source_keys": [
+        "namuwiki",
+        "fandom"
+      ],
+      "missing_audio": false,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "chimpansini-capuchini",
+      "name": "chimpansini capuchini",
+      "aliases": [],
+      "normalized_lookup": [
+        "chimpansini capuchini"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "chimpanzini-bananini",
+      "name": "chimpanzini bananini",
+      "aliases": [],
+      "normalized_lookup": [
+        "chimpanzini bananini"
+      ],
+      "source_keys": [
+        "fandom",
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "cocofanto-elefanto",
+      "name": "cocofanto elefanto",
+      "aliases": [],
+      "normalized_lookup": [
+        "cocofanto elefanto"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "croco-potato",
+      "name": "croco potato",
+      "aliases": [],
+      "normalized_lookup": [
+        "croco potato"
+      ],
+      "source_keys": [
+        "fandom"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "frigo-camelo",
+      "name": "frigo camelo",
+      "aliases": [],
+      "normalized_lookup": [
+        "frigo camelo"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "frulli-frulla",
+      "name": "frulli frulla",
+      "aliases": [],
+      "normalized_lookup": [
+        "frulli frulla"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "ganganzeli-trulala",
+      "name": "ganganzeli trulala",
+      "aliases": [],
+      "normalized_lookup": [
+        "ganganzeli trulala"
+      ],
+      "source_keys": [
+        "fandom"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "garamararamararaman-dan-madudungdung-tak-tuntung-perkuntung",
+      "name": "garamararamararaman dan madudungdung tak tuntung perkuntung",
+      "aliases": [],
+      "normalized_lookup": [
+        "garamararamararaman dan madudungdung tak tuntung perkuntung"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "girafa-celestre",
+      "name": "girafa celestre",
+      "aliases": [],
+      "normalized_lookup": [
+        "girafa celestre"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "giraffa-meloniera",
+      "name": "giraffa meloniera",
+      "aliases": [],
+      "normalized_lookup": [
+        "giraffa meloniera"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "glorbo-fruttodrillo",
+      "name": "glorbo fruttodrillo",
+      "aliases": [],
+      "normalized_lookup": [
+        "glorbo fruttodrillo"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "gorillo-watermellondrillo",
+      "name": "gorillo watermellondrillo",
+      "aliases": [],
+      "normalized_lookup": [
+        "gorillo watermellondrillo"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "graipussi-medussi",
+      "name": "graipussi medussi",
+      "aliases": [],
+      "normalized_lookup": [
+        "graipussi medussi"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "il-cacto-hipopotamo",
+      "name": "il cacto hipopotamo",
+      "aliases": [],
+      "normalized_lookup": [
+        "il cacto hipopotamo"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "la-vaca-saturno-saturnita",
+      "name": "la vaca saturno saturnita",
+      "aliases": [],
+      "normalized_lookup": [
+        "la vaca saturno saturnita"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "lirili-larila",
+      "name": "lirilì larilà",
+      "aliases": [],
+      "normalized_lookup": [
+        "lirili larila"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "matteo-lavacanita",
+      "name": "matteo lavacanita",
+      "aliases": [],
+      "normalized_lookup": [
+        "matteo lavacanita"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "orangutini-ananasini",
+      "name": "orangutini ananasini",
+      "aliases": [],
+      "normalized_lookup": [
+        "orangutini ananasini"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "pot-hotspot",
+      "name": "pot hotspot",
+      "aliases": [],
+      "normalized_lookup": [
+        "pot hotspot"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "raccooni-watermelunni",
+      "name": "raccooni watermelunni",
+      "aliases": [],
+      "normalized_lookup": [
+        "raccooni watermelunni"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "rhino-toasterino",
+      "name": "rhino toasterino",
+      "aliases": [],
+      "normalized_lookup": [
+        "rhino toasterino"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "svinino-bombondino",
+      "name": "svinino bombondino",
+      "aliases": [],
+      "normalized_lookup": [
+        "svinino bombondino"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "ta-ta-ta-ta-ta-ta-ta-ta-ta-ta-ta-sahur",
+      "name": "ta ta ta ta ta ta ta ta ta ta ta sahur",
+      "aliases": [],
+      "normalized_lookup": [
+        "ta ta ta ta ta ta ta ta ta ta ta sahur"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "tigroligre-frutonni",
+      "name": "tigroligre frutonni",
+      "aliases": [],
+      "normalized_lookup": [
+        "tigroligre frutonni"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "tigrrullini-watermellini",
+      "name": "tigrrullini watermellini",
+      "aliases": [],
+      "normalized_lookup": [
+        "tigrrullini watermellini"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "tracotucotulu-delapeladustuz",
+      "name": "tracotucotulu delapeladustuz",
+      "aliases": [],
+      "normalized_lookup": [
+        "tracotucotulu delapeladustuz"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "tralalero-tralala",
+      "name": "tralalero tralala",
+      "aliases": [],
+      "normalized_lookup": [
+        "tralalero tralala"
+      ],
+      "source_keys": [
+        "fandom",
+        "namuwiki"
+      ],
+      "missing_audio": false,
+      "missing_origin": false,
+      "missing_commons": true
+    },
+    {
+      "slug": "tric-trac-baraboom",
+      "name": "tric trac baraboom",
+      "aliases": [],
+      "normalized_lookup": [
+        "tric trac baraboom"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "trippa-troppa-crocodina",
+      "name": "trippa troppa tralala lirilì rilà tung sahur boneca tung tralalelo trippi troppa crocodina",
+      "aliases": [
+        "trippa troppa tralala lirilì rilà tung tung sahur boneca tung tung tralalelo trippi troppa crocodina"
+      ],
+      "normalized_lookup": [
+        "trippa troppa crocodina",
+        "trippa troppa tralala lirili rila tung sahur boneca tung tralalelo trippi troppa crocodina",
+        "trippa troppa tralala lirili rila tung tung sahur boneca tung tung tralalelo trippi troppa crocodina"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "trippi-troppi",
+      "name": "trippi troppi",
+      "aliases": [],
+      "normalized_lookup": [
+        "trippi troppi"
+      ],
+      "source_keys": [
+        "fandom",
+        "namuwiki"
+      ],
+      "missing_audio": false,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "trullimero-trullicina",
+      "name": "trullimero trullicina",
+      "aliases": [
+        "trulimero trulicina"
+      ],
+      "normalized_lookup": [
+        "trulimero trulicina",
+        "trullimero trullicina"
+      ],
+      "source_keys": [
+        "namuwiki",
+        "fandom"
+      ],
+      "missing_audio": false,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "tung-tung-tung-sahur",
+      "name": "tung tung tung sahur",
+      "aliases": [
+        "tung tung tung tung tung tung tung tung tung sahur"
+      ],
+      "normalized_lookup": [
+        "tung tung tung sahur",
+        "tung tung tung tung tung tung tung tung tung sahur"
+      ],
+      "source_keys": [
+        "fandom",
+        "namuwiki"
+      ],
+      "missing_audio": false,
+      "missing_origin": false,
+      "missing_commons": true
+    },
+    {
+      "slug": "tung-x9-assassino-boneca",
+      "name": "tung tung tung tung tung tung tung tung tung assassino boneca",
+      "aliases": [],
+      "normalized_lookup": [
+        "tung tung tung tung tung tung tung tung tung assassino boneca",
+        "tung x9 assassino boneca"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "u-din-din-din-din-dun-ma-din-din-din-dun",
+      "name": "u din din din din dun ma din din din dun",
+      "aliases": [],
+      "normalized_lookup": [
+        "u din din din din dun ma din din din dun"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    },
+    {
+      "slug": "zibra-zubra-zibralini",
+      "name": "zibra zubra zibralini",
+      "aliases": [],
+      "normalized_lookup": [
+        "zibra zubra zibralini"
+      ],
+      "source_keys": [
+        "namuwiki"
+      ],
+      "missing_audio": true,
+      "missing_origin": true,
+      "missing_commons": true
+    }
+  ]
+}

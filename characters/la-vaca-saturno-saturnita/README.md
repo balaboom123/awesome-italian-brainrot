@@ -4,8 +4,11 @@
 
 <img src="la-vaca-saturno-saturnita_namuwiki.webp" width="300" alt="La Vaca Saturno Saturnita">
 
+**Also spelled:** la vacca saturno saturnita
+
 ## Downloads
 
+- [Audio (MP3)](la-vaca-saturno-saturnita.mp3) · [source](https://www.myinstants.com/en/instant/vaca-saturno-saturnita-53998/) · MyInstants uploader: santi920 · Unknown media license
 - [Thumbnail · Namu Wiki](la-vaca-saturno-saturnita_namuwiki.webp)
 - [Full image · Namu Wiki · 1160x1164](la-vaca-saturno-saturnita_namuwiki_full.png)
 

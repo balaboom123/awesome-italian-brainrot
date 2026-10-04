@@ -6,6 +6,7 @@
 
 ## Downloads
 
+- [Audio (MP3)](cocofanto-elefanto.mp3) · [source](https://www.myinstants.com/en/instant/cocofanto-elefanto-5131/) · MyInstants uploader: sorin71 · Unknown media license
 - [Thumbnail · Namu Wiki](cocofanto-elefanto_namuwiki.webp)
 - [Full image · Namu Wiki · 1000x992](cocofanto-elefanto_namuwiki_full.png)
 

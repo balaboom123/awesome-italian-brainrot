@@ -4,8 +4,13 @@
 
 <img src="pot-hotspot_namuwiki.webp" width="300" alt="Pot Hotspot">
 
+**Also spelled:** hotspot bro
+
+**Origin:** @dytzz88 · tiktok · 2025-03-08 ([source](https://knowyourmeme.com/memes/hotspot-bro))
+
 ## Downloads
 
+- [Audio (MP3)](pot-hotspot.mp3) · [source](https://www.myinstants.com/en/instant/brooo-hotspot-36559/) · MyInstants uploader: declan378 · Unknown media license
 - [Thumbnail · Namu Wiki](pot-hotspot_namuwiki.webp)
 - [Full image · Namu Wiki · 1352x1344](pot-hotspot_namuwiki_full.png)
 

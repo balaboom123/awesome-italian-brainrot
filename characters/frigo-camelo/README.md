@@ -2,15 +2,23 @@
 
 # Frigo Camelo
 
-<img src="frigo-camelo_namuwiki.webp" width="300" alt="Frigo Camelo">
+<img src="frigo-camelo_commons.webp" width="300" alt="Frigo Camelo">
+
+**Also spelled:** frigo camello buffo fardello
+
+**Origin:** @ofuscabreno · tiktok · 2025-02-09 ([source](https://knowyourmeme.com/memes/frigo-camelo))
 
 ## Downloads
 
+- [Audio (MP3)](frigo-camelo.mp3) · [source](https://www.myinstants.com/en/instant/47-frigo-camelo-44391/) · MyInstants uploader: chaos47 · Unknown media license
 - [Thumbnail · Namu Wiki](frigo-camelo_namuwiki.webp)
+- [Thumbnail · Wikimedia Commons](frigo-camelo_commons.webp)
 - [Full image · Namu Wiki · 1000x1004](frigo-camelo_namuwiki_full.png)
+- [Full image · Wikimedia Commons · 573x572](https://upload.wikimedia.org/wikipedia/commons/f/ff/Frigo_Camelo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ## Sources
 
 - [Namu Wiki](https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Frigo_Camelo.png) · Unknown author (Commons) · Public domain
 
 [← All characters](../../README.md)

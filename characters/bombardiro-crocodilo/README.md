@@ -2,23 +2,26 @@
 
 # Bombardiro Crocodilo
 
-<img src="bombardiro-crocodilo_fandom.webp" width="300" alt="Bombardiro Crocodilo">
+<img src="bombardiro-crocodilo_commons.webp" width="300" alt="Bombardiro Crocodilo">
 
 **Also spelled:** bombardino crocodilo
 
-**Origin:** @armenjiharhanyan · tiktok · 2025-02-20 ([source](https://medium.com/@fabianmosele/the-entire-history-of-italian-brainrot-5c108ba805ca))
+**Origin:** @armenjiharhanyan · tiktok · 2025-02-20 ([source](https://knowyourmeme.com/memes/bombardiro-crocodilo-italian-brainrot))
 
 ## Downloads
 
 - [Audio (MP3)](bombardiro-crocodilo.mp3)
 - [Thumbnail · Fandom](bombardiro-crocodilo_fandom.webp)
 - [Thumbnail · Namu Wiki](bombardiro-crocodilo_namuwiki.webp)
+- [Thumbnail · Wikimedia Commons](bombardiro-crocodilo_commons.webp)
 - [Full image · Fandom · 900x900](bombardiro-crocodilo_fandom_full.png)
 - [Full image · Namu Wiki · 1000x996](bombardiro-crocodilo_namuwiki_full.png)
+- [Full image · Wikimedia Commons · 500x500](https://upload.wikimedia.org/wikipedia/commons/3/3f/Bombardiro_Crocodillo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ## Sources
 
 - Fandom (wiki closed)
 - [Namu Wiki](https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bombardiro_Crocodillo.jpg) · @armenjiharhanyan · Public domain
 
 [← All characters](../../README.md)

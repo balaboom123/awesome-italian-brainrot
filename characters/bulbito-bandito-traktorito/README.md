@@ -6,6 +6,7 @@
 
 ## Downloads
 
+- [Audio (MP3)](bulbito-bandito-traktorito.mp3) · [source](https://tuna.voicemod.net/sound/7a67b417-d052-4d8f-8b0a-5acb6b4cfd03) · Voicemod uploader: theeman05 · Unknown media license
 - [Thumbnail · Namu Wiki](bulbito-bandito-traktorito_namuwiki.webp)
 - [Full image · Namu Wiki · 1228x2156](bulbito-bandito-traktorito_namuwiki_full.png)
 

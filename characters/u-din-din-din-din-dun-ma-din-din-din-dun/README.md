@@ -2,15 +2,19 @@
 
 # U Din Din Din Din Dun Ma Din Din Din Dun
 
-<img src="u-din-din-din-din-dun-ma-din-din-din-dun_namuwiki.webp" width="300" alt="U Din Din Din Din Dun Ma Din Din Din Dun">
+<img src="u-din-din-din-din-dun-ma-din-din-din-dun_commons.webp" width="300" alt="U Din Din Din Din Dun Ma Din Din Din Dun">
 
 ## Downloads
 
+- [Audio (MP3)](u-din-din-din-din-dun-ma-din-din-din-dun.mp3) · [source](https://www.myinstants.com/en/instant/udin-din-din-dun-41086/) · MyInstants uploader: RobloxDoorsTop · Unknown media license
 - [Thumbnail · Namu Wiki](u-din-din-din-din-dun-ma-din-din-din-dun_namuwiki.webp)
+- [Thumbnail · Wikimedia Commons](u-din-din-din-din-dun-ma-din-din-din-dun_commons.webp)
 - [Full image · Namu Wiki · 1192x1292](u-din-din-din-din-dun-ma-din-din-din-dun_namuwiki_full.png)
+- [Full image · Wikimedia Commons · 456x457](https://upload.wikimedia.org/wikipedia/commons/8/8c/Udin_din_din_din_dun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ## Sources
 
 - [Namu Wiki](https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Udin_din_din_din_dun.jpg) · Unknown (TikTok anonymous users) · Public domain
 
 [← All characters](../../README.md)

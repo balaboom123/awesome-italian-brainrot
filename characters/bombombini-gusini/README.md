@@ -2,21 +2,24 @@
 
 # Bombombini Gusini
 
-<img src="bombombini-gusini_fandom.webp" width="300" alt="Bombombini Gusini">
+<img src="bombombini-gusini_commons.webp" width="300" alt="Bombombini Gusini">
 
-**Also spelled:** bobombini goosini
+**Also spelled:** bobombini goosini, bombini gusini
 
 ## Downloads
 
 - [Audio (MP3)](bombombini-gusini.mp3)
 - [Thumbnail · Fandom](bombombini-gusini_fandom.webp)
 - [Thumbnail · Namu Wiki](bombombini-gusini_namuwiki.webp)
+- [Thumbnail · Wikimedia Commons](bombombini-gusini_commons.webp)
 - [Full image · Fandom · 2744x1544](bombombini-gusini_fandom_full.png)
 - [Full image · Namu Wiki · 1720x972](bombombini-gusini_namuwiki_full.png)
+- [Full image · Wikimedia Commons · 686x386](https://upload.wikimedia.org/wikipedia/commons/b/b8/Bombini_Gusini.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ## Sources
 
 - Fandom (wiki closed)
 - [Namu Wiki](https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bombini_Gusini.webp) · Unknown (TikTok anonymous users) · Public domain
 
 [← All characters](../../README.md)

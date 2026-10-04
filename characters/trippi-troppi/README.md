@@ -2,19 +2,22 @@
 
 # Trippi Troppi
 
-<img src="trippi-troppi_fandom.webp" width="300" alt="Trippi Troppi">
+<img src="trippi-troppi_commons.webp" width="300" alt="Trippi Troppi">
 
 ## Downloads
 
-- [Audio (MP3)](trippi-troppi.mp3)
+- [Audio (MP3)](trippi-troppi.mp3) · [source](https://www.myinstants.com/en/instant/trippi-troppi-italian-brainrot-82352/) · MyInstants uploader: DJYUSIF · Unknown media license
 - [Thumbnail · Fandom](trippi-troppi_fandom.webp)
 - [Thumbnail · Namu Wiki](trippi-troppi_namuwiki.webp)
+- [Thumbnail · Wikimedia Commons](trippi-troppi_commons.webp)
 - [Full image · Fandom · 4000x3768](https://raw.githubusercontent.com/balaboom123/awesome-italian-brainrot/22520721659a390cd101b9a096e2e05057d64704/trippi%20troppi/trippi%20troppi%20%28fandom%29_4000x3768.png)
 - [Full image · Namu Wiki · 1000x996](trippi-troppi_namuwiki_full.png)
+- [Full image · Wikimedia Commons · 674x670](https://upload.wikimedia.org/wikipedia/commons/6/62/Trippi_Troppi2.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ## Sources
 
 - Fandom (wiki closed)
 - [Namu Wiki](https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Trippi_Troppi2.webp) · Unknown author (Commons) · Public domain
 
 [← All characters](../../README.md)

@@ -1,0 +1,897 @@
+{
+  "validated_at": "2026-10-04T09:11:33Z",
+  "commands": [
+    {
+      "command": "python3 scripts/build_readme.py --check",
+      "exit_code": 0,
+      "output": ""
+    },
+    {
+      "command": "python3 -m unittest discover -s tests",
+      "exit_code": 0,
+      "output": ".........\n----------------------------------------------------------------------\nRan 9 tests in 0.178s\n\nOK"
+    }
+  ],
+  "provenance_records_checked": 63,
+  "new_media_files_with_provenance": 58,
+  "existing_media_files_unchanged": 125,
+  "new_images": [
+    {
+      "repository_path": "characters/ballerina-cappuccina/ballerina-cappuccina_commons.webp",
+      "dimensions": [
+        459,
+        668
+      ],
+      "decode": "passed",
+      "bytes": 32360
+    },
+    {
+      "repository_path": "characters/ballerino-lololo/ballerino-lololo_miraheze.webp",
+      "dimensions": [
+        663,
+        663
+      ],
+      "decode": "passed",
+      "bytes": 19490
+    },
+    {
+      "repository_path": "characters/bombardiro-crocodilo/bombardiro-crocodilo_commons.webp",
+      "dimensions": [
+        500,
+        500
+      ],
+      "decode": "passed",
+      "bytes": 37940
+    },
+    {
+      "repository_path": "characters/bombombini-gusini/bombombini-gusini_commons.webp",
+      "dimensions": [
+        686,
+        386
+      ],
+      "decode": "passed",
+      "bytes": 46288
+    },
+    {
+      "repository_path": "characters/boneca-ambalabu/boneca-ambalabu_commons.webp",
+      "dimensions": [
+        474,
+        484
+      ],
+      "decode": "passed",
+      "bytes": 37256
+    },
+    {
+      "repository_path": "characters/brr-brr-patapim/brr-brr-patapim_commons.webp",
+      "dimensions": [
+        936,
+        936
+      ],
+      "decode": "passed",
+      "bytes": 110386
+    },
+    {
+      "repository_path": "characters/cappuccino-assassino/cappuccino-assassino_commons.webp",
+      "dimensions": [
+        576,
+        576
+      ],
+      "decode": "passed",
+      "bytes": 50320
+    },
+    {
+      "repository_path": "characters/chimpanzini-bananini/chimpanzini-bananini_commons.webp",
+      "dimensions": [
+        576,
+        576
+      ],
+      "decode": "passed",
+      "bytes": 47832
+    },
+    {
+      "repository_path": "characters/cocosino-rhino/cocosino-rhino_miraheze.webp",
+      "dimensions": [
+        648,
+        647
+      ],
+      "decode": "passed",
+      "bytes": 66198
+    },
+    {
+      "repository_path": "characters/crocodillo-ananasinno/crocodillo-ananasinno_miraheze.webp",
+      "dimensions": [
+        498,
+        498
+      ],
+      "decode": "passed",
+      "bytes": 46988
+    },
+    {
+      "repository_path": "characters/ecco-cavallo-virtuoso/ecco-cavallo-virtuoso_commons.webp",
+      "dimensions": [
+        360,
+        355
+      ],
+      "decode": "passed",
+      "bytes": 19244
+    },
+    {
+      "repository_path": "characters/ecco-cavallo-virtuoso/ecco-cavallo-virtuoso_miraheze.webp",
+      "dimensions": [
+        360,
+        355
+      ],
+      "decode": "passed",
+      "bytes": 19244
+    },
+    {
+      "repository_path": "characters/espressona-signora/espressona-signora_miraheze.webp",
+      "dimensions": [
+        1000,
+        940
+      ],
+      "decode": "passed",
+      "bytes": 47622
+    },
+    {
+      "repository_path": "characters/frigo-camelo/frigo-camelo_commons.webp",
+      "dimensions": [
+        573,
+        572
+      ],
+      "decode": "passed",
+      "bytes": 33584
+    },
+    {
+      "repository_path": "characters/frogilato-limituni/frogilato-limituni_miraheze.webp",
+      "dimensions": [
+        672,
+        693
+      ],
+      "decode": "passed",
+      "bytes": 73510
+    },
+    {
+      "repository_path": "characters/frulli-frulla/frulli-frulla_commons.webp",
+      "dimensions": [
+        536,
+        536
+      ],
+      "decode": "passed",
+      "bytes": 37874
+    },
+    {
+      "repository_path": "characters/girafa-celestre/girafa-celestre_commons.webp",
+      "dimensions": [
+        479,
+        640
+      ],
+      "decode": "passed",
+      "bytes": 54898
+    },
+    {
+      "repository_path": "characters/lirili-larila/lirili-larila_commons.webp",
+      "dimensions": [
+        576,
+        576
+      ],
+      "decode": "passed",
+      "bytes": 34836
+    },
+    {
+      "repository_path": "characters/malame-amarale/malame-amarale_miraheze.webp",
+      "dimensions": [
+        1024,
+        1021
+      ],
+      "decode": "passed",
+      "bytes": 99154
+    },
+    {
+      "repository_path": "characters/malame-amarale/malame-amarale_miraheze_full.png",
+      "dimensions": [
+        1080,
+        1077
+      ],
+      "decode": "passed",
+      "bytes": 1388728
+    },
+    {
+      "repository_path": "characters/pearuni-deeruni/pearuni-deeruni_miraheze.webp",
+      "dimensions": [
+        678,
+        755
+      ],
+      "decode": "passed",
+      "bytes": 48758
+    },
+    {
+      "repository_path": "characters/penguinelli-cactussini/penguinelli-cactussini_miraheze.webp",
+      "dimensions": [
+        463,
+        469
+      ],
+      "decode": "passed",
+      "bytes": 36886
+    },
+    {
+      "repository_path": "characters/penguino-cocosino/penguino-cocosino_miraheze.webp",
+      "dimensions": [
+        480,
+        360
+      ],
+      "decode": "passed",
+      "bytes": 23104
+    },
+    {
+      "repository_path": "characters/perochello-lemonchello/perochello-lemonchello_miraheze.webp",
+      "dimensions": [
+        498,
+        497
+      ],
+      "decode": "passed",
+      "bytes": 45868
+    },
+    {
+      "repository_path": "characters/piccione-macchina/piccione-macchina_miraheze.webp",
+      "dimensions": [
+        360,
+        360
+      ],
+      "decode": "passed",
+      "bytes": 8898
+    },
+    {
+      "repository_path": "characters/pippi-poppa-pippo-peppe/pippi-poppa-pippo-peppe_miraheze.webp",
+      "dimensions": [
+        194,
+        259
+      ],
+      "decode": "passed",
+      "bytes": 9376
+    },
+    {
+      "repository_path": "characters/porco-elettronico/porco-elettronico_miraheze.webp",
+      "dimensions": [
+        720,
+        720
+      ],
+      "decode": "passed",
+      "bytes": 62250
+    },
+    {
+      "repository_path": "characters/slimo-li-appluni/slimo-li-appluni_miraheze.webp",
+      "dimensions": [
+        723,
+        694
+      ],
+      "decode": "passed",
+      "bytes": 43350
+    },
+    {
+      "repository_path": "characters/spaghetti-tualetti/spaghetti-tualetti_miraheze.webp",
+      "dimensions": [
+        498,
+        497
+      ],
+      "decode": "passed",
+      "bytes": 35594
+    },
+    {
+      "repository_path": "characters/spijuniro-golubiro/spijuniro-golubiro_miraheze.webp",
+      "dimensions": [
+        654,
+        722
+      ],
+      "decode": "passed",
+      "bytes": 40820
+    },
+    {
+      "repository_path": "characters/tralalero-tralala/tralalero-tralala_commons.webp",
+      "dimensions": [
+        576,
+        576
+      ],
+      "decode": "passed",
+      "bytes": 20656
+    },
+    {
+      "repository_path": "characters/tre-tigri-triste/tre-tigri-triste_miraheze.webp",
+      "dimensions": [
+        392,
+        524
+      ],
+      "decode": "passed",
+      "bytes": 17132
+    },
+    {
+      "repository_path": "characters/trenostruzzo-turbo-3000/trenostruzzo-turbo-3000_miraheze.webp",
+      "dimensions": [
+        1024,
+        1020
+      ],
+      "decode": "passed",
+      "bytes": 113716
+    },
+    {
+      "repository_path": "characters/trenostruzzo-turbo-3000/trenostruzzo-turbo-3000_miraheze_full.png",
+      "dimensions": [
+        1605,
+        1598
+      ],
+      "decode": "passed",
+      "bytes": 2727284
+    },
+    {
+      "repository_path": "characters/trippi-troppi/trippi-troppi_commons.webp",
+      "dimensions": [
+        674,
+        670
+      ],
+      "decode": "passed",
+      "bytes": 44652
+    },
+    {
+      "repository_path": "characters/tukanno-bananno/tukanno-bananno_miraheze.webp",
+      "dimensions": [
+        498,
+        499
+      ],
+      "decode": "passed",
+      "bytes": 37666
+    },
+    {
+      "repository_path": "characters/tung-tung-tung-sahur/tung-tung-tung-sahur_commons.webp",
+      "dimensions": [
+        795,
+        1024
+      ],
+      "decode": "passed",
+      "bytes": 55426
+    },
+    {
+      "repository_path": "characters/u-din-din-din-din-dun-ma-din-din-din-dun/u-din-din-din-din-dun-ma-din-din-din-dun_commons.webp",
+      "dimensions": [
+        456,
+        457
+      ],
+      "decode": "passed",
+      "bytes": 31178
+    }
+  ],
+  "audio": [
+    {
+      "repository_path": "characters/bobrini-cocococini/bobrini-cocococini.mp3",
+      "decode": "passed",
+      "duration_seconds": 7.896,
+      "bytes": 126336,
+      "existing_file": true
+    },
+    {
+      "repository_path": "characters/bobrito-bandito/bobrito-bandito.mp3",
+      "decode": "passed",
+      "duration_seconds": 10.512,
+      "bytes": 168330,
+      "existing_file": false
+    },
+    {
+      "repository_path": "characters/boneca-ambalabu/boneca-ambalabu.mp3",
+      "decode": "passed",
+      "duration_seconds": 13.531429,
+      "bytes": 216964,
+      "existing_file": false
+    },
+    {
+      "repository_path": "characters/brr-brr-patapim/brr-brr-patapim.mp3",
+      "decode": "passed",
+      "duration_seconds": 10.605714,
+      "bytes": 296760,
+      "existing_file": true
+    },
+    {
+      "repository_path": "characters/brri-brri-bicus-dicus-bombicus/brri-brri-bicus-dicus-bombicus.mp3",
+      "decode": "passed",
+      "duration_seconds": 2.847347,
+      "bytes": 87978,
+      "existing_file": false
+    },
+    {
+      "repository_path": "characters/bulbito-bandito-traktorito/bulbito-bandito-traktorito.mp3",
+      "decode": "passed",
+      "duration_seconds": 12.624,
+      "bytes": 201984,
+      "existing_file": false
+    },
+    {
+      "repository_path": "characters/chimpanzini-bananini/chimpanzini-bananini.mp3",
+      "decode": "passed",
+      "duration_seconds": 7.706122,
+      "bytes": 185710,
+      "existing_file": false
+    },
+    {
+      "repository_path": "characters/cocofanto-elefanto/cocofanto-elefanto.mp3",
+      "decode": "passed",
+      "duration_seconds": 11.807313,
+      "bytes": 188962,
+      "existing_file": false
+    },
+    {
+      "repository_path": "characters/frigo-camelo/frigo-camelo.mp3",
+      "decode": "passed",
+      "duration_seconds": 4.022857,
+      "bytes": 64931,
+      "existing_file": false
+    },
+    {
+      "repository_path": "characters/frulli-frulla/frulli-frulla.mp3",
+      "decode": "passed",
+      "duration_seconds": 3.291429,
+      "bytes": 132839,
+      "existing_file": false
+    },
+    {
+      "repository_path": "characters/ganganzeli-trulala/ganganzeli-trulala.mp3",
+      "decode": "passed",
+      "duration_seconds": 10.584,
+      "bytes": 169344,
+      "existing_file": false
+    },
+    {
+      "repository_path": "characters/glorbo-fruttodrillo/glorbo-fruttodrillo.mp3",
+      "decode": "passed",
+      "duration_seconds": 38.687313,
+      "bytes": 619042,
+      "existing_file": false
+    },
+    {
+      "repository_path": "characters/il-cacto-hipopotamo/il-cacto-hipopotamo.mp3",
+      "decode": "passed",
+      "duration_seconds": 15.412245,
+      "bytes": 247156,
+      "existing_file": false
+    },
+    {
+      "repository_path": "characters/la-vaca-saturno-saturnita/la-vaca-saturno-saturnita.mp3",
+      "decode": "passed",
+      "duration_seconds": 60.144,
+      "bytes": 180914,
+      "existing_file": false
+    },
+    {
+      "repository_path": "characters/lirili-larila/lirili-larila.mp3",
+      "decode": "passed",
+      "duration_seconds": 21.133061,
+      "bytes": 85038,
+      "existing_file": false
+    },
+    {
+      "repository_path": "characters/orangutini-ananasini/orangutini-ananasini.mp3",
+      "decode": "passed",
+      "duration_seconds": 6.96,
+      "bytes": 55916,
+      "existing_file": false
+    },
+    {
+      "repository_path": "characters/pot-hotspot/pot-hotspot.mp3",
+      "decode": "passed",
+      "duration_seconds": 9.168,
+      "bytes": 218973,
+      "existing_file": false
+    },
+    {
+      "repository_path": "characters/spaghetti-tualetti/spaghetti-tualetti.mp3",
+      "decode": "passed",
+      "duration_seconds": 1.584,
+      "bytes": 25389,
+      "existing_file": false
+    },
+    {
+      "repository_path": "characters/spijuniro-golubiro/spijuniro-golubiro.mp3",
+      "decode": "passed",
+      "duration_seconds": 15.048,
+      "bytes": 240812,
+      "existing_file": false
+    },
+    {
+      "repository_path": "characters/ta-ta-ta-ta-ta-ta-ta-ta-ta-ta-ta-sahur/ta-ta-ta-ta-ta-ta-ta-ta-ta-ta-ta-sahur.mp3",
+      "decode": "passed",
+      "duration_seconds": 3.144,
+      "bytes": 50733,
+      "existing_file": false
+    },
+    {
+      "repository_path": "characters/tric-trac-baraboom/tric-trac-baraboom.mp3",
+      "decode": "passed",
+      "duration_seconds": 45.024,
+      "bytes": 720384,
+      "existing_file": false
+    },
+    {
+      "repository_path": "characters/trippi-troppi/trippi-troppi.mp3",
+      "decode": "passed",
+      "duration_seconds": 11.304,
+      "bytes": 181002,
+      "existing_file": true
+    },
+    {
+      "repository_path": "characters/trullimero-trullicina/trullimero-trullicina.mp3",
+      "decode": "passed",
+      "duration_seconds": 8.064,
+      "bytes": 129024,
+      "existing_file": true
+    },
+    {
+      "repository_path": "characters/tung-tung-tung-sahur/tung-tung-tung-sahur.mp3",
+      "decode": "passed",
+      "duration_seconds": 24.398333,
+      "bytes": 292836,
+      "existing_file": true
+    },
+    {
+      "repository_path": "characters/u-din-din-din-din-dun-ma-din-din-din-dun/u-din-din-din-din-dun-ma-din-din-din-dun.mp3",
+      "decode": "passed",
+      "duration_seconds": 15.386063,
+      "bytes": 246667,
+      "existing_file": false
+    }
+  ],
+  "external_download_urls": [
+    {
+      "url": "https://archive.org/download/wiki-italianbrainrot.miraheze.org_w-20250801/italianbrainrot.miraheze.org_w-20250801-images.7z",
+      "checked_at": "2026-10-04T09:11:30Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "application/x-7z-compressed",
+      "content_length": "909474839"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ecco_Cavallo_Virtuoso.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "checked_at": "2026-10-04T09:11:30Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "image/webp",
+      "content_length": "16918"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Brr_brr_patapim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "checked_at": "2026-10-04T09:11:30Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "content_length": "219868"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Frulli_Frulla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "checked_at": "2026-10-04T09:11:31Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "content_length": "41260"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Tung_tung_tung_sahur.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "checked_at": "2026-10-04T09:11:31Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "image/webp",
+      "content_length": "120870"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bombardiro_Crocodillo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "checked_at": "2026-10-04T09:11:31Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "content_length": "71558"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Trippi_Troppi2.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "checked_at": "2026-10-04T09:11:31Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "image/webp",
+      "content_length": "88582"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Giraffa_Celeste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "checked_at": "2026-10-04T09:11:31Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "content_length": "41433"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Liril%C3%AC_Laril%C3%A0.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "checked_at": "2026-10-04T09:11:31Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "image/webp",
+      "content_length": "29570"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Udin_din_din_din_dun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "checked_at": "2026-10-04T09:11:31Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "content_length": "61256"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/ChimpanziniBananini.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "checked_at": "2026-10-04T09:11:31Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "image/webp",
+      "content_length": "41104"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Cappucino_assasino.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "checked_at": "2026-10-04T09:11:31Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "image/webp",
+      "content_length": "43200"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Boneca_Ambalabu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "checked_at": "2026-10-04T09:11:31Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "content_length": "35732"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Bombini_Gusini.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "checked_at": "2026-10-04T09:11:32Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "image/webp",
+      "content_length": "58316"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Ballerina_Cappucina.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "checked_at": "2026-10-04T09:11:32Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "image/webp",
+      "content_length": "39974"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Tralalero_Tralala.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "checked_at": "2026-10-04T09:11:32Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "image/webp",
+      "content_length": "16850"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Frigo_Camelo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "checked_at": "2026-10-04T09:11:32Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "image/png",
+      "content_length": "464534"
+    },
+    {
+      "url": "https://us-tuna-sounds-files.voicemod.net/06295fc3-2d56-4e4f-b596-4ff376a10874-1741340138812.mp3",
+      "checked_at": "2026-10-04T09:11:32Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "619042"
+    },
+    {
+      "url": "https://us-tuna-sounds-files.voicemod.net/7a67b417-d052-4d8f-8b0a-5acb6b4cfd03-1743381581322.mp3",
+      "checked_at": "2026-10-04T09:11:32Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "201984"
+    },
+    {
+      "url": "https://us-tuna-sounds-files.voicemod.net/e0ff2f04-22ce-4b79-98b7-8ac0438c53c6-1758929055471.mp3",
+      "checked_at": "2026-10-04T09:11:32Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "25389"
+    },
+    {
+      "url": "https://us-tuna-sounds-files.voicemod.net/f64430d5-ce9f-4d39-8c33-7b19d1297695-1747318571339.mp3",
+      "checked_at": "2026-10-04T09:11:32Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "720384"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/47-frigo-camelo.mp3",
+      "checked_at": "2026-10-04T09:11:32Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "64931"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/bobrini-cocococini.mp3",
+      "checked_at": "2026-10-04T09:11:32Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "126336"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/bobrito-bandito-italian-brainrot.mp3",
+      "checked_at": "2026-10-04T09:11:32Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "168330"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/boneca-ambalabu.mp3",
+      "checked_at": "2026-10-04T09:11:32Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "216964"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/brooo-hotspot.mp3",
+      "checked_at": "2026-10-04T09:11:32Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "218973"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/brr-brr-patapim.mp3",
+      "checked_at": "2026-10-04T09:11:33Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "296760"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/brri-brri-dicus-bicus-bombicus.mp3",
+      "checked_at": "2026-10-04T09:11:33Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "87978"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/cacto-hipopotamo.mp3",
+      "checked_at": "2026-10-04T09:11:33Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "247156"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/chimpanzini-bananini-full.mp3",
+      "checked_at": "2026-10-04T09:11:33Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "185710"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/cocofanto-elefanto.mp3",
+      "checked_at": "2026-10-04T09:11:33Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "188962"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/ganganzelli-trulala.mp3",
+      "checked_at": "2026-10-04T09:11:33Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "169344"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/italiananimals-bird-in-the-desert.mp3",
+      "checked_at": "2026-10-04T09:11:33Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "132839"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/lirili-larila.mp3",
+      "checked_at": "2026-10-04T09:11:33Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "85038"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/orangutini-ananasini.mp3",
+      "checked_at": "2026-10-04T09:11:33Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "55916"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/spijuniro-golubiro.mp3",
+      "checked_at": "2026-10-04T09:11:33Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "240812"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/tatata-sahur.mp3",
+      "checked_at": "2026-10-04T09:11:33Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "50733"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/trippi-troppi-italian-brainrot.mp3",
+      "checked_at": "2026-10-04T09:11:33Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "181002"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/trullimero-trullicina.mp3",
+      "checked_at": "2026-10-04T09:11:33Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "129024"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/tung-tung-tung-tung-sahur.mp3",
+      "checked_at": "2026-10-04T09:11:33Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "292836"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/udin-din-din-dun.mp3",
+      "checked_at": "2026-10-04T09:11:33Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "246667"
+    },
+    {
+      "url": "https://www.myinstants.com/media/sounds/vaca-saturno-saturnita.mp3",
+      "checked_at": "2026-10-04T09:11:33Z",
+      "method": "HEAD",
+      "status": 200,
+      "content_type": "audio/mpeg",
+      "content_length": "180914"
+    }
+  ],
+  "archive_checksums": "Image archive, XML and image list verified against IA SHA-1; selected members checked against archive file-list SHA-1.",
+  "image_visual_review": "Final normalized contact sheet inspected; source originals and replacement Cocosino Rhino inspected.",
+  "audio_review": "Automated decode and speech recognition only; human listening not performed.",
+  "repeat_import": {
+    "result": "passed",
+    "unchanged_media_files": 183,
+    "duplicate_provenance_records": 0,
+    "cached_downloads_reused": 42
+  },
+  "download_measurement": {
+    "cached_source_payload_bytes": 943614200,
+    "other_source_payload_bytes": 2608833,
+    "successful_source_payload_bytes": 946223033,
+    "archive_image_bytes": 909474839,
+    "new_repository_media_bytes": 9814432,
+    "new_repository_media_files": 58,
+    "provenance_records": 63,
+    "excluded_from_download_measurement": "Package/model installs, retries/error responses, transport overhead; unique cached successful source payloads only."
+  },
+  "documentation_local_links_checked": 14
+}

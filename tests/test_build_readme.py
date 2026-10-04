@@ -85,6 +85,41 @@ class ArchiveTests(unittest.TestCase):
         (self.folder / 'unexpected').mkdir()
         self.assertTrue(build.check_files([self.character]))
 
+    def test_media_credit_validation_and_rendering(self):
+        source = self.character['sources']['fandom']
+        source.update(attribution='Example <creator>', license='CC BY-SA 4.0',
+                      license_url='https://creativecommons.org/licenses/by-sa/4.0/')
+        self.assertEqual(build.check_schema([self.character]), [])
+        page = build.char_readme(self.character)
+        self.assertIn('Example &lt;creator&gt;', page)
+        self.assertIn('[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)', page)
+        source['attribution'] = []
+        self.assertTrue(build.check_schema([self.character]))
+        source['attribution'] = 'Example\rCreator'
+        self.assertTrue(build.check_schema([self.character]))
+        source['attribution'] = 'Example'
+        source['license_url'] = 'not-a-url'
+        self.assertTrue(build.check_schema([self.character]))
+        source['license_url'] = 'https://example.org/license'
+        self.character['audio_credit'] = {'attribution': 'Uploader', 'license': 'Unknown license'}
+        self.assertTrue(build.check_schema([self.character]))
+        self.character['audio_source'] = 'https://example.org/audio'
+        (self.folder / 'sample.mp3').write_bytes(b'audio fixture')
+        self.assertEqual(build.check_schema([self.character]), [])
+        self.assertIn('Uploader · Unknown license', build.char_readme(self.character))
+
+    def test_archived_source_label_preserves_original_page_title(self):
+        self.character['thumb'] = 'miraheze'
+        self.character['sources'] = {'miraheze': {
+            'url': 'https://archive.org/details/wiki-example', 'page_title': 'Original page',
+            'attribution': 'Wiki uploader: Example', 'license': 'Unknown media license',
+        }}
+        self.thumbnail.rename(self.folder / 'sample_miraheze.webp')
+        self.assertEqual(build.check_schema([self.character]), [])
+        self.assertEqual(build.check_files([self.character]), [])
+        self.assertIn('Original page · Wiki uploader: Example · Unknown media license',
+                      build.char_readme(self.character))
+
     def test_file_size_limits(self):
         with patch.multiple(build, MAX_THUMB=20, MAX_AUDIO=30, MAX_BYTES=40):
             self.thumbnail.write_bytes(b'x' * 20)

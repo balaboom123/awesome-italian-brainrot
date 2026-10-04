@@ -2,15 +2,20 @@
 
 # Girafa Celestre
 
-<img src="girafa-celestre_namuwiki.webp" width="300" alt="Girafa Celestre">
+<img src="girafa-celestre_commons.webp" width="300" alt="Girafa Celestre">
+
+**Also spelled:** giraffa celeste
 
 ## Downloads
 
 - [Thumbnail · Namu Wiki](girafa-celestre_namuwiki.webp)
+- [Thumbnail · Wikimedia Commons](girafa-celestre_commons.webp)
 - [Full image · Namu Wiki · 1000x976](girafa-celestre_namuwiki_full.png)
+- [Full image · Wikimedia Commons · 479x640](https://upload.wikimedia.org/wikipedia/commons/6/66/Giraffa_Celeste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ## Sources
 
 - [Namu Wiki](https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Giraffa_Celeste.jpg) · Unknown author (Commons) · Public domain
 
 [← All characters](../../README.md)

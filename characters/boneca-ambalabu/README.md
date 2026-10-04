@@ -2,15 +2,21 @@
 
 # Boneca Ambalabu
 
-<img src="boneca-ambalabu_namuwiki.webp" width="300" alt="Boneca Ambalabu">
+<img src="boneca-ambalabu_commons.webp" width="300" alt="Boneca Ambalabu">
+
+**Origin:** @ofuscabreno · tiktok · 2025-02-02 ([source](https://knowyourmeme.com/memes/boneca-ambalabu))
 
 ## Downloads
 
+- [Audio (MP3)](boneca-ambalabu.mp3) · [source](https://www.myinstants.com/en/instant/boneca-ambalabu-64546/) · MyInstants uploader: silver437 · Unknown media license
 - [Thumbnail · Namu Wiki](boneca-ambalabu_namuwiki.webp)
+- [Thumbnail · Wikimedia Commons](boneca-ambalabu_commons.webp)
 - [Full image · Namu Wiki · 1000x1000](boneca-ambalabu_namuwiki_full.png)
+- [Full image · Wikimedia Commons · 474x484](https://upload.wikimedia.org/wikipedia/commons/9/9d/Boneca_Ambalabu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ## Sources
 
 - [Namu Wiki](https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Boneca_Ambalabu.jpg) · Unknown author (Commons) · Public domain
 
 [← All characters](../../README.md)

@@ -4,8 +4,11 @@
 
 <img src="ganganzeli-trulala_fandom.webp" width="300" alt="Ganganzeli Trulala">
 
+**Also spelled:** ganganzelli trulala
+
 ## Downloads
 
+- [Audio (MP3)](ganganzeli-trulala.mp3) · [source](https://www.myinstants.com/en/instant/ganganzelli-trulala-5069/) · MyInstants uploader: sorin71 · Unknown media license
 - [Thumbnail · Fandom](ganganzeli-trulala_fandom.webp)
 - [Full image · Fandom · 1628x2712](ganganzeli-trulala_fandom_full.png)
 

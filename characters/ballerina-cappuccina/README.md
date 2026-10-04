@@ -2,21 +2,26 @@
 
 # Ballerina Cappuccina
 
-<img src="ballerina-cappuccina_fandom.webp" width="300" alt="Ballerina Cappuccina">
+<img src="ballerina-cappuccina_commons.webp" width="300" alt="Ballerina Cappuccina">
 
 **Also spelled:** ballerina cappucina
+
+**Origin:** @aironic.fun · tiktok · 2025-03-19 ([source](https://knowyourmeme.com/memes/ballerina-cappuccina-italian-brainrot))
 
 ## Downloads
 
 - [Audio (MP3)](ballerina-cappuccina.mp3)
 - [Thumbnail · Fandom](ballerina-cappuccina_fandom.webp)
 - [Thumbnail · Namu Wiki](ballerina-cappuccina_namuwiki.webp)
+- [Thumbnail · Wikimedia Commons](ballerina-cappuccina_commons.webp)
 - [Full image · Fandom · 2304x2304](ballerina-cappuccina_fandom_full.png)
 - [Full image · Namu Wiki · 1000x1460](ballerina-cappuccina_namuwiki_full.png)
+- [Full image · Wikimedia Commons · 459x668](https://upload.wikimedia.org/wikipedia/commons/e/e3/Ballerina_Cappucina.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
 ## Sources
 
 - Fandom (wiki closed)
 - [Namu Wiki](https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0)
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ballerina_Cappucina.webp) · Unknown (TikTok anonymous users) · Public domain
 
 [← All characters](../../README.md)

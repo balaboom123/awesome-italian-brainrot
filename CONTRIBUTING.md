@@ -29,7 +29,7 @@ For example, `lirilì larilà` uses `lirili-larila`. Shorten long chants in the 
 
 ## Files
 
-Use one thumbnail per source. Source keys: `commons`, `wikioasis`, `kym`, `namuwiki`, `fandom`. Prefer Commons when available.
+Use one thumbnail per source. Source keys: `commons`, `wikioasis`, `miraheze`, `kym`, `namuwiki`, `fandom`. Prefer Commons when available.
 
 | File | Limit |
 |------|-------|
@@ -63,6 +63,9 @@ All fields above are required except `hires`.
 | `sources.<key>.url` | Source page; required except for the closed Fandom wiki |
 | `sources.<key>.hires` | Full-image dimensions, such as `900x900` |
 | `sources.<key>.hires_url` | Direct download URL when the full image is hosted elsewhere |
+| `sources.<key>.attribution`, `license`, `license_url` | Optional file credit and stated terms, shown on the character page |
+| `sources.<key>.page_title` | Original page title when the source URL points to an archived dump |
+| `audio_credit` | Optional `attribution`, `license` and `license_url`; requires `audio_source` |
 | `audio_source` | Audio source URL, when known |
 | `origin` | Optional `creator`, `platform`, `date` and citation `url` |
 | `components` | At least two distinct character slugs when `kind` is `fusion` |
@@ -91,3 +94,9 @@ gh release create hires --title "Hi-res images over 5 MB" --notes "Original imag
 After upload, set each `hires_url` to `https://github.com/balaboom123/awesome-italian-brainrot/releases/download/hires/<filename>` and regenerate the pages. Use the fixed release tag, not `latest`.
 
 Old files remain in Git history. ZIP downloads and shallow clones avoid that history.
+
+## Download provenance
+
+Downloaded assets are recorded in [data/source-imports.jsonl](data/source-imports.jsonl) with source URLs, dates, hashes and conversions. Use `miraheze` for old wiki downloads; keep the archived page title and archive member path.
+
+See the [import report](docs/source-import-report.md) for the first batch and [source discovery](data/source-discovery.json) for remaining leads.

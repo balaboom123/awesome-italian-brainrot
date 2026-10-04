@@ -6,7 +6,7 @@
     "aliases": [
       "ballerina cappucina"
     ],
-    "thumb": "fandom",
+    "thumb": "commons",
     "sources": {
       "fandom": {
         "hires": "2304x2304"
@@ -14,7 +14,41 @@
       "namuwiki": {
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "1000x1460"
+      },
+      "commons": {
+        "url": "https://commons.wikimedia.org/wiki/File:Ballerina_Cappucina.webp",
+        "attribution": "Unknown (TikTok anonymous users)",
+        "license": "Public domain",
+        "hires": "459x668",
+        "hires_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Ballerina_Cappucina.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
       }
+    },
+    "origin": {
+      "creator": "@aironic.fun",
+      "platform": "tiktok",
+      "date": "2025-03-19",
+      "url": "https://knowyourmeme.com/memes/ballerina-cappuccina-italian-brainrot"
+    }
+  },
+  {
+    "name": "ballerino lololo",
+    "slug": "ballerino-lololo",
+    "kind": "original",
+    "aliases": [],
+    "thumb": "miraheze",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Ballerino Lololo",
+        "attribution": "Wiki uploader: FantastiCube",
+        "license": "Unknown media license"
+      }
+    },
+    "origin": {
+      "creator": "@fskacca",
+      "platform": "tiktok",
+      "date": "2025-03-25",
+      "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801"
     }
   },
   {
@@ -49,24 +83,6 @@
     }
   },
   {
-    "name": "bombombini gusini",
-    "slug": "bombombini-gusini",
-    "kind": "original",
-    "aliases": [
-      "bobombini goosini"
-    ],
-    "thumb": "fandom",
-    "sources": {
-      "fandom": {
-        "hires": "2744x1544"
-      },
-      "namuwiki": {
-        "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
-        "hires": "1720x972"
-      }
-    }
-  },
-  {
     "name": "bobrini cocococini",
     "slug": "bobrini-cocococini",
     "kind": "original",
@@ -77,6 +93,11 @@
         "hires": "5240x4680",
         "hires_url": "https://raw.githubusercontent.com/balaboom123/awesome-italian-brainrot/22520721659a390cd101b9a096e2e05057d64704/bobrini%20cocococini/bobrini%20cocococini%20%28fandom%29_5240x4680.png"
       }
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/bobrini-cocococini-44061/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: k4622",
+      "license": "Unknown media license"
     }
   },
   {
@@ -90,6 +111,11 @@
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "1000x1000"
       }
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/bobrito-bandito-italian-brainrot-40180/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: DJYUSIF",
+      "license": "Unknown media license"
     }
   },
   {
@@ -103,9 +129,9 @@
       "creator": "@armenjiharhanyan",
       "platform": "tiktok",
       "date": "2025-02-20",
-      "url": "https://medium.com/@fabianmosele/the-entire-history-of-italian-brainrot-5c108ba805ca"
+      "url": "https://knowyourmeme.com/memes/bombardiro-crocodilo-italian-brainrot"
     },
-    "thumb": "fandom",
+    "thumb": "commons",
     "sources": {
       "fandom": {
         "hires": "900x900"
@@ -113,6 +139,39 @@
       "namuwiki": {
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "1000x996"
+      },
+      "commons": {
+        "url": "https://commons.wikimedia.org/wiki/File:Bombardiro_Crocodillo.jpg",
+        "attribution": "@armenjiharhanyan",
+        "license": "Public domain",
+        "hires": "500x500",
+        "hires_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bombardiro_Crocodillo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      }
+    }
+  },
+  {
+    "name": "bombombini gusini",
+    "slug": "bombombini-gusini",
+    "kind": "original",
+    "aliases": [
+      "bobombini goosini",
+      "bombini gusini"
+    ],
+    "thumb": "commons",
+    "sources": {
+      "fandom": {
+        "hires": "2744x1544"
+      },
+      "namuwiki": {
+        "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
+        "hires": "1720x972"
+      },
+      "commons": {
+        "url": "https://commons.wikimedia.org/wiki/File:Bombini_Gusini.webp",
+        "attribution": "Unknown (TikTok anonymous users)",
+        "license": "Public domain",
+        "hires": "686x386",
+        "hires_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Bombini_Gusini.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
       }
     }
   },
@@ -121,12 +180,30 @@
     "slug": "boneca-ambalabu",
     "kind": "original",
     "aliases": [],
-    "thumb": "namuwiki",
+    "thumb": "commons",
     "sources": {
       "namuwiki": {
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "1000x1000"
+      },
+      "commons": {
+        "url": "https://commons.wikimedia.org/wiki/File:Boneca_Ambalabu.jpg",
+        "attribution": "Unknown author (Commons)",
+        "license": "Public domain",
+        "hires": "474x484",
+        "hires_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Boneca_Ambalabu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
       }
+    },
+    "origin": {
+      "creator": "@ofuscabreno",
+      "platform": "tiktok",
+      "date": "2025-02-02",
+      "url": "https://knowyourmeme.com/memes/boneca-ambalabu"
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/boneca-ambalabu-64546/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: silver437",
+      "license": "Unknown media license"
     }
   },
   {
@@ -134,7 +211,7 @@
     "slug": "brr-brr-patapim",
     "kind": "original",
     "aliases": [],
-    "thumb": "fandom",
+    "thumb": "commons",
     "sources": {
       "fandom": {
         "hires": "3744x3744",
@@ -143,7 +220,25 @@
       "namuwiki": {
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "1000x996"
+      },
+      "commons": {
+        "url": "https://commons.wikimedia.org/wiki/File:Brr_brr_patapim.jpg",
+        "attribution": "Unknown (TikTok anonymous users)",
+        "license": "Public domain",
+        "hires": "936x936",
+        "hires_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Brr_brr_patapim.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
       }
+    },
+    "origin": {
+      "creator": "@ofuscabreno",
+      "platform": "tiktok",
+      "date": "2025-02-17",
+      "url": "https://knowyourmeme.com/memes/brr-brr-patapim"
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/brr-brr-patapim-72802/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: luigi1768",
+      "license": "Unknown media license"
     }
   },
   {
@@ -157,6 +252,11 @@
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "800x792"
       }
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/brri-brri-dicus-bicus-bombicus-43260/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: zaim46",
+      "license": "Unknown media license"
     }
   },
   {
@@ -170,6 +270,11 @@
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "1228x2156"
       }
+    },
+    "audio_source": "https://tuna.voicemod.net/sound/7a67b417-d052-4d8f-8b0a-5acb6b4cfd03",
+    "audio_credit": {
+      "attribution": "Voicemod uploader: theeman05",
+      "license": "Unknown media license"
     }
   },
   {
@@ -198,7 +303,7 @@
     "aliases": [
       "capuccino assasino"
     ],
-    "thumb": "fandom",
+    "thumb": "commons",
     "sources": {
       "namuwiki": {
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
@@ -206,7 +311,20 @@
       },
       "fandom": {
         "hires": "2744x1544"
+      },
+      "commons": {
+        "url": "https://commons.wikimedia.org/wiki/File:Cappucino_assasino.webp",
+        "attribution": "Published by user alexey_pigeon",
+        "license": "Public domain",
+        "hires": "576x576",
+        "hires_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Cappucino_assasino.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
       }
+    },
+    "origin": {
+      "creator": "@alexey_pigeon",
+      "platform": "tiktok",
+      "date": "2025-03-05",
+      "url": "https://knowyourmeme.com/memes/cappuccino-assassino-italian-brainrot"
     }
   },
   {
@@ -227,7 +345,7 @@
     "slug": "chimpanzini-bananini",
     "kind": "original",
     "aliases": [],
-    "thumb": "fandom",
+    "thumb": "commons",
     "sources": {
       "fandom": {
         "hires": "896x900"
@@ -235,7 +353,25 @@
       "namuwiki": {
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "1000x1004"
+      },
+      "commons": {
+        "url": "https://commons.wikimedia.org/wiki/File:ChimpanziniBananini.webp",
+        "attribution": "Unknown (TikTok anonymous users)",
+        "license": "Public domain",
+        "hires": "576x576",
+        "hires_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/ChimpanziniBananini.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
       }
+    },
+    "origin": {
+      "creator": "@alexey_pigeon",
+      "platform": "tiktok",
+      "date": "2025-03-13",
+      "url": "https://knowyourmeme.com/memes/chimpanzini-bananini-italian-brainrot"
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/chimpanzini-bananini-full-30237/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: evan09",
+      "license": "Unknown media license"
     }
   },
   {
@@ -248,6 +384,26 @@
       "namuwiki": {
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "1000x992"
+      }
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/cocofanto-elefanto-5131/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: sorin71",
+      "license": "Unknown media license"
+    }
+  },
+  {
+    "name": "cocosino rhino",
+    "slug": "cocosino-rhino",
+    "kind": "original",
+    "aliases": [],
+    "thumb": "miraheze",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Cocosino Rhino",
+        "attribution": "Wiki uploader: MarkyzYT",
+        "license": "Unknown media license"
       }
     }
   },
@@ -265,16 +421,123 @@
     }
   },
   {
+    "name": "crocodillo ananasinno",
+    "slug": "crocodillo-ananasinno",
+    "kind": "original",
+    "aliases": [],
+    "thumb": "miraheze",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Crocodillo Ananasinno",
+        "attribution": "Wiki uploader: Gilimaster69",
+        "license": "Unknown media license"
+      }
+    },
+    "origin": {
+      "creator": "@alexey_pigeon",
+      "platform": "tiktok",
+      "date": "2025",
+      "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801"
+    }
+  },
+  {
+    "name": "ecco cavallo virtuoso",
+    "slug": "ecco-cavallo-virtuoso",
+    "kind": "original",
+    "aliases": [],
+    "thumb": "commons",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Ecco Cavallo Virtuoso",
+        "attribution": "Wiki uploader: Gilimaster69",
+        "license": "Unknown media license"
+      },
+      "commons": {
+        "url": "https://commons.wikimedia.org/wiki/File:Ecco_Cavallo_Virtuoso.webp",
+        "attribution": "Unknown author (Commons)",
+        "license": "Public domain",
+        "hires": "360x355",
+        "hires_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ecco_Cavallo_Virtuoso.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      }
+    }
+  },
+  {
+    "name": "espressona signora",
+    "slug": "espressona-signora",
+    "kind": "original",
+    "aliases": [
+      "espressona señora"
+    ],
+    "thumb": "miraheze",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Espressona Signora",
+        "attribution": "Wiki uploader: Rep seaisla",
+        "license": "Unknown media license"
+      }
+    },
+    "origin": {
+      "creator": "@ncracfbcr4x",
+      "platform": "tiktok",
+      "date": "2025-03-30",
+      "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801"
+    }
+  },
+  {
     "name": "frigo camelo",
     "slug": "frigo-camelo",
     "kind": "original",
-    "aliases": [],
-    "thumb": "namuwiki",
+    "aliases": [
+      "frigo camello buffo fardello"
+    ],
+    "thumb": "commons",
     "sources": {
       "namuwiki": {
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "1000x1004"
+      },
+      "commons": {
+        "url": "https://commons.wikimedia.org/wiki/File:Frigo_Camelo.png",
+        "attribution": "Unknown author (Commons)",
+        "license": "Public domain",
+        "hires": "573x572",
+        "hires_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Frigo_Camelo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
       }
+    },
+    "origin": {
+      "creator": "@ofuscabreno",
+      "platform": "tiktok",
+      "date": "2025-02-09",
+      "url": "https://knowyourmeme.com/memes/frigo-camelo"
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/47-frigo-camelo-44391/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: chaos47",
+      "license": "Unknown media license"
+    }
+  },
+  {
+    "name": "frogilato limituni",
+    "slug": "frogilato-limituni",
+    "kind": "original",
+    "aliases": [],
+    "thumb": "miraheze",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Frogilato Limituni",
+        "attribution": "Wiki uploader: MarkyzYT",
+        "license": "Unknown media license"
+      }
+    },
+    "origin": {
+      "creator": "@alexey_pigeon",
+      "platform": "tiktok",
+      "date": "2025-03-11",
+      "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801"
     }
   },
   {
@@ -282,24 +545,43 @@
     "slug": "frulli-frulla",
     "kind": "original",
     "aliases": [],
-    "thumb": "namuwiki",
+    "thumb": "commons",
     "sources": {
       "namuwiki": {
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "800x792"
+      },
+      "commons": {
+        "url": "https://commons.wikimedia.org/wiki/File:Frulli_Frulla.jpg",
+        "attribution": "Unknown author (Commons)",
+        "license": "Public domain",
+        "hires": "536x536",
+        "hires_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Frulli_Frulla.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
       }
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/italiananimals-bird-in-the-desert-80209/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: epeu",
+      "license": "Unknown media license"
     }
   },
   {
     "name": "ganganzeli trulala",
     "slug": "ganganzeli-trulala",
     "kind": "original",
-    "aliases": [],
+    "aliases": [
+      "ganganzelli trulala"
+    ],
     "thumb": "fandom",
     "sources": {
       "fandom": {
         "hires": "1628x2712"
       }
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/ganganzelli-trulala-5069/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: sorin71",
+      "license": "Unknown media license"
     }
   },
   {
@@ -319,12 +601,21 @@
     "name": "girafa celestre",
     "slug": "girafa-celestre",
     "kind": "original",
-    "aliases": [],
-    "thumb": "namuwiki",
+    "aliases": [
+      "giraffa celeste"
+    ],
+    "thumb": "commons",
     "sources": {
       "namuwiki": {
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "1000x976"
+      },
+      "commons": {
+        "url": "https://commons.wikimedia.org/wiki/File:Giraffa_Celeste.jpg",
+        "attribution": "Unknown author (Commons)",
+        "license": "Public domain",
+        "hires": "479x640",
+        "hires_url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Giraffa_Celeste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
       }
     }
   },
@@ -352,6 +643,11 @@
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "800x788"
       }
+    },
+    "audio_source": "https://tuna.voicemod.net/sound/06295fc3-2d56-4e4f-b596-4ff376a10874",
+    "audio_credit": {
+      "attribution": "Voicemod uploader: PitchParametricPhaser59198",
+      "license": "Unknown media license"
     }
   },
   {
@@ -391,19 +687,31 @@
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "800x800"
       }
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/cacto-hipopotamo-43516/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: lucas7532",
+      "license": "Unknown media license"
     }
   },
   {
     "name": "la vaca saturno saturnita",
     "slug": "la-vaca-saturno-saturnita",
     "kind": "original",
-    "aliases": [],
+    "aliases": [
+      "la vacca saturno saturnita"
+    ],
     "thumb": "namuwiki",
     "sources": {
       "namuwiki": {
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "1160x1164"
       }
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/vaca-saturno-saturnita-53998/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: santi920",
+      "license": "Unknown media license"
     }
   },
   {
@@ -411,11 +719,39 @@
     "slug": "lirili-larila",
     "kind": "original",
     "aliases": [],
-    "thumb": "namuwiki",
+    "thumb": "commons",
     "sources": {
       "namuwiki": {
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "1000x1012"
+      },
+      "commons": {
+        "url": "https://commons.wikimedia.org/wiki/File:Liril%C3%AC_Laril%C3%A0.webp",
+        "attribution": "Unknown (TikTok anonymous users)",
+        "license": "Public domain",
+        "hires": "576x576",
+        "hires_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Liril%C3%AC_Laril%C3%A0.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      }
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/lirili-larila-26737/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: ovesomeone21",
+      "license": "Unknown media license"
+    }
+  },
+  {
+    "name": "malamé amaralé",
+    "slug": "malame-amarale",
+    "kind": "original",
+    "aliases": [],
+    "thumb": "miraheze",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Malamé Amaralé",
+        "attribution": "Wiki uploader: Tung tung tung tung sahur",
+        "license": "Unknown media license",
+        "hires": "1080x1077"
       }
     }
   },
@@ -443,19 +779,172 @@
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "800x1040"
       }
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/orangutini-ananasini-29054/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: sorin71",
+      "license": "Unknown media license"
+    }
+  },
+  {
+    "name": "pearuni deeruni",
+    "slug": "pearuni-deeruni",
+    "kind": "original",
+    "aliases": [],
+    "thumb": "miraheze",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Pearuni Deeruni",
+        "attribution": "Wiki uploader: MarkyzYT",
+        "license": "Unknown media license"
+      }
+    },
+    "origin": {
+      "creator": "@alexey_pigeon",
+      "platform": "tiktok",
+      "date": "2025-03-11",
+      "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801"
+    }
+  },
+  {
+    "name": "penguinelli cactussini",
+    "slug": "penguinelli-cactussini",
+    "kind": "original",
+    "aliases": [
+      "lerulerulerule"
+    ],
+    "thumb": "miraheze",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Penguinelli Cactussini",
+        "attribution": "Wiki uploader: MarkyzYT",
+        "license": "Unknown media license"
+      }
+    },
+    "origin": {
+      "creator": "@alexey_pigeon",
+      "platform": "tiktok",
+      "date": "2025-03",
+      "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801"
+    }
+  },
+  {
+    "name": "penguino cocosino",
+    "slug": "penguino-cocosino",
+    "kind": "original",
+    "aliases": [],
+    "thumb": "miraheze",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Penguino Cocosino",
+        "attribution": "Wiki uploader: Gilimaster69",
+        "license": "Unknown media license"
+      }
+    },
+    "origin": {
+      "creator": "@alexey_pigeon",
+      "platform": "tiktok",
+      "date": "2025-03-12",
+      "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801"
+    }
+  },
+  {
+    "name": "perochello lemonchello",
+    "slug": "perochello-lemonchello",
+    "kind": "original",
+    "aliases": [],
+    "thumb": "miraheze",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Perochello Lemonchello",
+        "attribution": "Wiki uploader: Bobbycarrot",
+        "license": "Unknown media license"
+      }
+    }
+  },
+  {
+    "name": "piccione macchina",
+    "slug": "piccione-macchina",
+    "kind": "original",
+    "aliases": [],
+    "thumb": "miraheze",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Piccione Macchina",
+        "attribution": "Wiki uploader: QuandaleDingle69",
+        "license": "Unknown media license"
+      }
+    }
+  },
+  {
+    "name": "pippi poppa pippo peppe",
+    "slug": "pippi-poppa-pippo-peppe",
+    "kind": "original",
+    "aliases": [
+      "pipi popa pipo pepe"
+    ],
+    "thumb": "miraheze",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Pippi Poppa Pippo Peppe",
+        "attribution": "Wiki uploader: Ilkekrt",
+        "license": "Unknown media license"
+      }
+    }
+  },
+  {
+    "name": "porco elettronico",
+    "slug": "porco-elettronico",
+    "kind": "original",
+    "aliases": [
+      "porco eletronico"
+    ],
+    "thumb": "miraheze",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Porco Elettronico",
+        "attribution": "Wiki uploader: F0g",
+        "license": "Unknown media license"
+      }
+    },
+    "origin": {
+      "creator": "@ofuscabreno",
+      "platform": "tiktok",
+      "date": "2025-03-07",
+      "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801"
     }
   },
   {
     "name": "pot hotspot",
     "slug": "pot-hotspot",
     "kind": "original",
-    "aliases": [],
+    "aliases": [
+      "hotspot bro"
+    ],
     "thumb": "namuwiki",
     "sources": {
       "namuwiki": {
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "1352x1344"
       }
+    },
+    "origin": {
+      "creator": "@dytzz88",
+      "platform": "tiktok",
+      "date": "2025-03-08",
+      "url": "https://knowyourmeme.com/memes/hotspot-bro"
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/brooo-hotspot-36559/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: declan378",
+      "license": "Unknown media license"
     }
   },
   {
@@ -485,6 +974,55 @@
     }
   },
   {
+    "name": "slimo li appluni",
+    "slug": "slimo-li-appluni",
+    "kind": "original",
+    "aliases": [
+      "slimi appluni"
+    ],
+    "thumb": "miraheze",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Slimo Li Appluni",
+        "attribution": "Wiki uploader: MarkyzYT",
+        "license": "Unknown media license"
+      }
+    },
+    "origin": {
+      "creator": "@alexey_pigeon",
+      "platform": "tiktok",
+      "date": "2025-03-11",
+      "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801"
+    }
+  },
+  {
+    "name": "spaghetti tualetti",
+    "slug": "spaghetti-tualetti",
+    "kind": "original",
+    "aliases": [],
+    "thumb": "miraheze",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Spaghetti Tualetti",
+        "attribution": "Wiki uploader: Bobbycarrot",
+        "license": "Unknown media license"
+      }
+    },
+    "origin": {
+      "creator": "@alexey_pigeon",
+      "platform": "tiktok",
+      "date": "2025-03-04",
+      "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801"
+    },
+    "audio_source": "https://tuna.voicemod.net/sound/e0ff2f04-22ce-4b79-98b7-8ac0438c53c6",
+    "audio_credit": {
+      "attribution": "Voicemod uploader: Vaultted",
+      "license": "Unknown media license"
+    }
+  },
+  {
     "name": "svinino bombondino",
     "slug": "svinino-bombondino",
     "kind": "original",
@@ -508,6 +1046,11 @@
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "800x792"
       }
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/tatata-sahur-96311/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: Famous_pineapple",
+      "license": "Unknown media license"
     }
   },
   {
@@ -560,7 +1103,7 @@
       "date": "2025-01",
       "url": "https://knowyourmeme.com/memes/italian-brainrot-ai-italian-animals"
     },
-    "thumb": "fandom",
+    "thumb": "commons",
     "sources": {
       "fandom": {
         "hires": "900x900"
@@ -568,6 +1111,50 @@
       "namuwiki": {
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "1620x1800"
+      },
+      "commons": {
+        "url": "https://commons.wikimedia.org/wiki/File:Tralalero_Tralala.webp",
+        "attribution": "@amoamimandy.1a",
+        "license": "Public domain",
+        "hires": "576x576",
+        "hires_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Tralalero_Tralala.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+      }
+    }
+  },
+  {
+    "name": "tre tigri triste",
+    "slug": "tre-tigri-triste",
+    "kind": "original",
+    "aliases": [],
+    "thumb": "miraheze",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Tre Tigri Triste",
+        "attribution": "Wiki uploader: Bubbotcentral",
+        "license": "Unknown media license"
+      }
+    },
+    "origin": {
+      "creator": "@ofuscabreno",
+      "platform": "tiktok",
+      "date": "2025-03",
+      "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801"
+    }
+  },
+  {
+    "name": "trenostruzzo turbo 3000",
+    "slug": "trenostruzzo-turbo-3000",
+    "kind": "original",
+    "aliases": [],
+    "thumb": "miraheze",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Trenostruzzo Turbo 3000",
+        "attribution": "Wiki uploader: Gilimaster69",
+        "license": "Unknown media license",
+        "hires": "1605x1598"
       }
     }
   },
@@ -582,6 +1169,11 @@
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "992x1000"
       }
+    },
+    "audio_source": "https://tuna.voicemod.net/sound/f64430d5-ce9f-4d39-8c33-7b19d1297695",
+    "audio_credit": {
+      "attribution": "Voicemod uploader: BrainrotFunker",
+      "license": "Unknown media license"
     }
   },
   {
@@ -611,7 +1203,7 @@
     "slug": "trippi-troppi",
     "kind": "original",
     "aliases": [],
-    "thumb": "fandom",
+    "thumb": "commons",
     "sources": {
       "fandom": {
         "hires": "4000x3768",
@@ -620,7 +1212,19 @@
       "namuwiki": {
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "1000x996"
+      },
+      "commons": {
+        "url": "https://commons.wikimedia.org/wiki/File:Trippi_Troppi2.webp",
+        "attribution": "Unknown author (Commons)",
+        "license": "Public domain",
+        "hires": "674x670",
+        "hires_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Trippi_Troppi2.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
       }
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/trippi-troppi-italian-brainrot-82352/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: DJYUSIF",
+      "license": "Unknown media license"
     }
   },
   {
@@ -628,7 +1232,8 @@
     "slug": "trullimero-trullicina",
     "kind": "original",
     "aliases": [
-      "trulimero trulicina"
+      "trulimero trulicina",
+      "trulimero trulichina"
     ],
     "thumb": "fandom",
     "sources": {
@@ -640,6 +1245,26 @@
         "hires": "4000x4060",
         "hires_url": "https://raw.githubusercontent.com/balaboom123/awesome-italian-brainrot/22520721659a390cd101b9a096e2e05057d64704/trullimero%20trullicina/trullimero%20trullicina%20%28fandom%29_4000x4060.png"
       }
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/trullimero-trullicina-15149/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: k4622",
+      "license": "Unknown media license"
+    }
+  },
+  {
+    "name": "tukanno bananno",
+    "slug": "tukanno-bananno",
+    "kind": "original",
+    "aliases": [],
+    "thumb": "miraheze",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Tukanno Bananno",
+        "attribution": "Wiki uploader: Shaddow ESP",
+        "license": "Unknown media license"
+      }
     }
   },
   {
@@ -647,15 +1272,16 @@
     "slug": "tung-tung-tung-sahur",
     "kind": "original",
     "aliases": [
-      "tung tung tung tung tung tung tung tung tung sahur"
+      "tung tung tung tung tung tung tung tung tung sahur",
+      "triple t"
     ],
     "origin": {
       "creator": "@noxaasht",
       "platform": "tiktok",
-      "date": "2025-02",
-      "url": "https://en.wikipedia.org/wiki/Italian_brainrot"
+      "date": "2025-02-28",
+      "url": "https://knowyourmeme.com/memes/tung-tung-tung-sahur"
     },
-    "thumb": "fandom",
+    "thumb": "commons",
     "sources": {
       "fandom": {
         "hires": "1920x1440"
@@ -663,7 +1289,19 @@
       "namuwiki": {
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "1000x1064"
+      },
+      "commons": {
+        "url": "https://commons.wikimedia.org/wiki/File:Tung_tung_tung_sahur.webp",
+        "attribution": "@noxaasht",
+        "license": "Public domain",
+        "hires": "839x1080",
+        "hires_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Tung_tung_tung_sahur.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
       }
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/tung-tung-tung-tung-sahur-82632/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: k4622",
+      "license": "Unknown media license"
     }
   },
   {
@@ -684,12 +1322,24 @@
     "slug": "u-din-din-din-din-dun-ma-din-din-din-dun",
     "kind": "original",
     "aliases": [],
-    "thumb": "namuwiki",
+    "thumb": "commons",
     "sources": {
       "namuwiki": {
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "1192x1292"
+      },
+      "commons": {
+        "url": "https://commons.wikimedia.org/wiki/File:Udin_din_din_din_dun.jpg",
+        "attribution": "Unknown (TikTok anonymous users)",
+        "license": "Public domain",
+        "hires": "456x457",
+        "hires_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Udin_din_din_din_dun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
       }
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/udin-din-din-dun-41086/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: RobloxDoorsTop",
+      "license": "Unknown media license"
     }
   },
   {
@@ -703,6 +1353,26 @@
         "url": "https://en.namu.wiki/w/Italian%20Brainrot/%EB%93%B1%EC%9E%A5%20%EC%BA%90%EB%A6%AD%ED%84%B0",
         "hires": "940x956"
       }
+    }
+  },
+  {
+    "name": "špijuniro golubiro",
+    "slug": "spijuniro-golubiro",
+    "kind": "original",
+    "aliases": [],
+    "thumb": "miraheze",
+    "sources": {
+      "miraheze": {
+        "url": "https://archive.org/details/wiki-italianbrainrot.miraheze.org_w-20250801",
+        "page_title": "Špijuniro Golubiro",
+        "attribution": "Wiki uploader: Bobbycarrot",
+        "license": "Unknown media license"
+      }
+    },
+    "audio_source": "https://www.myinstants.com/en/instant/spijuniro-golubiro-6010/",
+    "audio_credit": {
+      "attribution": "MyInstants uploader: silver437",
+      "license": "Unknown media license"
     }
   }
 ]

@@ -6,6 +6,7 @@
 
 ## Downloads
 
+- [Audio (MP3)](tric-trac-baraboom.mp3) · [source](https://tuna.voicemod.net/sound/f64430d5-ce9f-4d39-8c33-7b19d1297695) · Voicemod uploader: BrainrotFunker · Unknown media license
 - [Thumbnail · Namu Wiki](tric-trac-baraboom_namuwiki.webp)
 - [Full image · Namu Wiki · 992x1000](tric-trac-baraboom_namuwiki_full.png)
 
