@@ -1,0 +1,38 @@
+name: Add a character
+description: Suggest a missing character
+title: "add: <character name>"
+labels: [new-character]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Character name
+      description: Use the original spelling if known
+    validations: {required: true}
+  - type: input
+    id: aliases
+    attributes:
+      label: Other spellings
+      description: Comma separated
+  - type: input
+    id: image
+    attributes:
+      label: Image URL
+      description: Link to the wiki or Commons page containing the image
+    validations: {required: true}
+  - type: input
+    id: origin
+    attributes:
+      label: Original post
+      description: TikTok/Instagram link or creator handle, if known
+  - type: input
+    id: audio
+    attributes:
+      label: Audio URL
+      description: Link to the original TTS clip, if any
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Is this a mashup of existing characters?
+      options: ["No", "Yes (name them in the field above)"]
+    validations: {required: true}

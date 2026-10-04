@@ -1,0 +1,24 @@
+name: Add audio
+description: Suggest an original character sound clip
+title: "audio: <character name>"
+labels: [audio]
+body:
+  - type: input
+    id: character
+    attributes:
+      label: Character
+      description: Name as shown in the README
+    validations: {required: true}
+  - type: input
+    id: url
+    attributes:
+      label: Audio URL
+      description: Link to the original clip or a download page
+    validations: {required: true}
+  - type: checkboxes
+    id: original
+    attributes:
+      label: Confirm
+      options:
+        - label: This is the original TTS clip, without edits or music
+          required: true
